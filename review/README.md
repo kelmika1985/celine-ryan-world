@@ -1,13 +1,13 @@
 # 审查分册清单
 
-- 库版本：v2.1.1 ｜ 源库 sha256：`f88abeb35e857f62058f847bc0d524f1ae72581da9a227cf719efa1522db9542`
+- 库版本：v2.1.1 ｜ 源库 sha256：`92a55bfc7e2e7825f5ad4f18eb8fd486c7403fe21b8dcdd59e220f0960131a34`
 - 每册的 sha256 与字符数见 `mirror/meta.json` 的 `files` 表（册内自指会形成循环，因此指纹统一记在 meta.json）。
 - 分册是同一份库的不同排版，不是新事实源，可由 `tools/build_mirror.py` 整体重建。
 
 | 分册 | 内容 | 覆盖 | 规模 |
 |---|---|---|---|
 | `review/L1_character_1.md` | 人物（第 1 册，共 7 册） | 实体 75 个 | 28488 字符 |
-| `review/L1_character_2.md` | 人物（第 2 册，共 7 册） | 实体 75 个 | 24087 字符 |
+| `review/L1_character_2.md` | 人物（第 2 册，共 7 册） | 实体 75 个 | 24083 字符 |
 | `review/L1_character_3.md` | 人物（第 3 册，共 7 册） | 实体 75 个 | 28703 字符 |
 | `review/L1_character_4.md` | 人物（第 4 册，共 7 册） | 实体 75 个 | 26641 字符 |
 | `review/L1_character_5.md` | 人物（第 5 册，共 7 册） | 实体 75 个 | 29647 字符 |
@@ -26,10 +26,10 @@
 | `review/L1_era_mainline_2.md` | 主线时代（第 2 册，共 4 册） | 时代分页 87 个 | 29850 字符 |
 | `review/L1_era_mainline_3.md` | 主线时代（第 3 册，共 4 册） | 时代分页 87 个 | 29538 字符 |
 | `review/L1_era_mainline_4.md` | 主线时代（第 4 册，共 4 册） | 时代分页 87 个 | 14070 字符 |
-| `review/L1_era_afterstory_1.md` | 后日谈时代（第 1 册，共 3 册） | 时代分页 110 个 | 29642 字符 |
+| `review/L1_era_afterstory_1.md` | 后日谈时代（第 1 册，共 3 册） | 时代分页 110 个 | 29638 字符 |
 | `review/L1_era_afterstory_2.md` | 后日谈时代（第 2 册，共 3 册） | 时代分页 110 个 | 29248 字符 |
 | `review/L1_era_afterstory_3.md` | 后日谈时代（第 3 册，共 3 册） | 时代分页 110 个 | 29964 字符 |
-| `review/L1_facts_1.md` | facts 断言全集 第1册 | 1865 条 facts | 27221 字符 |
+| `review/L1_facts_1.md` | facts 断言全集 第1册 | 1865 条 facts | 27217 字符 |
 | `review/L1_facts_2.md` | facts 断言全集 第2册 | 1865 条 facts | 27996 字符 |
 | `review/L1_facts_3.md` | facts 断言全集 第3册 | 1865 条 facts | 29749 字符 |
 | `review/L1_facts_4.md` | facts 断言全集 第4册 | 1865 条 facts | 29900 字符 |
@@ -37,7 +37,7 @@
 | `review/L1_facts_6.md` | facts 断言全集 第6册 | 1865 条 facts | 27335 字符 |
 | `review/L1_relations.md` | 关系表 | 240 条关系 | 31524 字符 |
 | `review/L1_timeline.md` | 时间线 | 86 个时间点 | 7682 字符 |
-| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 355106 字符 |
+| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 355102 字符 |
 
 ## 回传建议格式
 
