@@ -1,6 +1,6 @@
 # 审查分册清单
 
-- 库版本：v2.1.1 ｜ 源库 sha256：`0141038848dcd686fc3f70908e604ac2e983c9f7c26face3eb56fa7dfe97af45`
+- 库版本：v2.1.1 ｜ 源库 sha256：`2ee00992c6c5b0d18d440ae4f9485524392d3e00e2159fec54cd2141eee671ef`
 - 每册的 sha256 与字符数见 `mirror/meta.json` 的 `files` 表（册内自指会形成循环，因此指纹统一记在 meta.json）。
 - 分册是同一份库的不同排版，不是新事实源，可由 `tools/build_mirror.py` 整体重建。
 
@@ -9,7 +9,7 @@
 | `review/L1_character_1.md` | 人物（第 1 册，共 7 册） | 实体 75 个 | 28497 字符 |
 | `review/L1_character_2.md` | 人物（第 2 册，共 7 册） | 实体 75 个 | 24083 字符 |
 | `review/L1_character_3.md` | 人物（第 3 册，共 7 册） | 实体 75 个 | 28690 字符 |
-| `review/L1_character_4.md` | 人物（第 4 册，共 7 册） | 实体 75 个 | 26657 字符 |
+| `review/L1_character_4.md` | 人物（第 4 册，共 7 册） | 实体 75 个 | 26752 字符 |
 | `review/L1_character_5.md` | 人物（第 5 册，共 7 册） | 实体 75 个 | 29662 字符 |
 | `review/L1_character_6.md` | 人物（第 6 册，共 7 册） | 实体 75 个 | 29531 字符 |
 | `review/L1_character_7.md` | 人物（第 7 册，共 7 册） | 实体 75 个 | 5351 字符 |
@@ -27,18 +27,18 @@
 | `review/L1_era_mainline_3.md` | 主线时代（第 3 册，共 4 册） | 时代分页 87 个 | 29556 字符 |
 | `review/L1_era_mainline_4.md` | 主线时代（第 4 册，共 4 册） | 时代分页 87 个 | 14074 字符 |
 | `review/L1_era_afterstory_1.md` | 后日谈时代（第 1 册，共 4 册） | 时代分页 110 个 | 29638 字符 |
-| `review/L1_era_afterstory_2.md` | 后日谈时代（第 2 册，共 4 册） | 时代分页 110 个 | 29248 字符 |
+| `review/L1_era_afterstory_2.md` | 后日谈时代（第 2 册，共 4 册） | 时代分页 110 个 | 29343 字符 |
 | `review/L1_era_afterstory_3.md` | 后日谈时代（第 3 册，共 4 册） | 时代分页 110 个 | 29355 字符 |
 | `review/L1_era_afterstory_4.md` | 后日谈时代（第 4 册，共 4 册） | 时代分页 110 个 | 779 字符 |
-| `review/L1_facts_1.md` | facts 断言全集 第1册 | 1866 条 facts | 27226 字符 |
-| `review/L1_facts_2.md` | facts 断言全集 第2册 | 1866 条 facts | 28028 字符 |
-| `review/L1_facts_3.md` | facts 断言全集 第3册 | 1866 条 facts | 29773 字符 |
-| `review/L1_facts_4.md` | facts 断言全集 第4册 | 1866 条 facts | 29918 字符 |
-| `review/L1_facts_5.md` | facts 断言全集 第5册 | 1866 条 facts | 29833 字符 |
-| `review/L1_facts_6.md` | facts 断言全集 第6册 | 1866 条 facts | 27335 字符 |
+| `review/L1_facts_1.md` | facts 断言全集 第1册 | 1867 条 facts | 27226 字符 |
+| `review/L1_facts_2.md` | facts 断言全集 第2册 | 1867 条 facts | 28123 字符 |
+| `review/L1_facts_3.md` | facts 断言全集 第3册 | 1867 条 facts | 29773 字符 |
+| `review/L1_facts_4.md` | facts 断言全集 第4册 | 1867 条 facts | 29918 字符 |
+| `review/L1_facts_5.md` | facts 断言全集 第5册 | 1867 条 facts | 29833 字符 |
+| `review/L1_facts_6.md` | facts 断言全集 第6册 | 1867 条 facts | 27335 字符 |
 | `review/L1_relations.md` | 关系表 | 240 条关系 | 32508 字符 |
 | `review/L1_timeline.md` | 时间线 | 86 个时间点 | 7682 字符 |
-| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 356170 字符 |
+| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 356265 字符 |
 
 ## 回传建议格式
 
