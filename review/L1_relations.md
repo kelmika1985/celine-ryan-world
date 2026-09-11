@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：9aa86695a44e…
+- 库版本：v2.1.1 ｜ 源库 sha256：ee374dff54b7…
 - 本册覆盖：全部 230 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -124,7 +124,7 @@
 - `rel_0139` 弗雷德（弗雷德） → 长耳族（长耳族）（关系：拯救者；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：action.rescued；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0140` 罗威（罗威） → 海拉据点：天文台（海拉据点：天文台）（关系：天文台负责人；时代：主线；机器语义：membership.leader_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0141` 奥蕾拉（奥蕾拉） → 艾莉丝（艾莉丝）（关系：情同姐妹；时代：主线、后日谈；机器语义：social.friend；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0142` 莱茵芳汀（莱茵芳汀） → 瓦基乍托（瓦基乍托）（关系：种族；时代：主线、后日谈；机器语义：identity.birth_species；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0142` 莱茵芳汀（莱茵芳汀） → 触手族（触手族）（关系：种族；时代：主线、后日谈；机器语义：identity.birth_species；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0144` 艾拉（艾拉） → 奈菲莉亚（奈菲莉亚）（关系：授权；时代：后日谈；生效自：tp_afterstory_star_thief_after；机器语义：action.authorized；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0145` 艾拉（艾拉） → 长耳族（长耳族）（关系：保护；时代：后日谈；生效自：tp_afterstory_alcatraz_after；机器语义：action.protects；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0146` 卡珊（卡珊） → 柯洛琳（柯洛琳）（关系：学院室友；时代：后日谈；生效自：tp_afterstory_city_academy_phase；生效至：tp_afterstory_city_academy_phase；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
