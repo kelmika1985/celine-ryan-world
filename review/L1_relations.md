@@ -1,19 +1,19 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：73de04347e84…
-- 本册覆盖：全部 237 条关系。
+- 库版本：v2.1.1 ｜ 源库 sha256：f88abeb35e85…
+- 本册覆盖：全部 240 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
 - `rel_0001` 赛琳（赛琳） → 艾拉（艾拉）（关系：星神使徒；时代：主线、后日谈；生效自：tp_mainline_star_tower_after；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目39（主要角色篇，赛琳））
 - `rel_0002` 雷恩（雷恩） → 艾拉（艾拉）（关系：星神使徒；时代：主线、后日谈；生效自：tp_mainline_ren_apostle；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目39（主要角色篇，雷恩））
-- `rel_0003` 格林（格林） → 诺亚（诺亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目58（主要角色篇，格林））
+- `rel_0003` 格林（格林） → 诺亚（诺亚）（关系：星神使徒；时代：后日谈；生效自：tp_afterstory_nostadt_migration_after；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目58（主要角色篇，格林））
 - `rel_0004` 埃利安（埃利安） → 塞西莉亚（塞西莉亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目63（主要角色篇，埃利安））
 - `rel_0005` 艾斯缇娜（艾斯缇娜） → 塞西莉亚（塞西莉亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目65（主要角色篇，艾斯缇娜））
 - `rel_0006` 克罗（克罗） → 希尔（希尔）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目91（次要角色篇，克罗））
 - `rel_0007` 安娜（安娜） → 奈菲莉亚（奈菲莉亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目93（次要角色篇，安娜））
 - `rel_0008` 雷诺（雷诺） → 诺亚（诺亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目97（次要角色篇，雷诺））
 - `rel_0009` 赫米（赫米） → 诺亚（诺亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目98（次要角色篇，赫米））
-- `rel_0010` 艾莎维拉（艾莎维拉） → 诺亚（诺亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目98（次要角色篇，艾莎维拉））
+- `rel_0010` 艾莎维拉（艾莎维拉） → 诺亚（诺亚）（关系：星神使徒；时代：后日谈；生效自：tp_afterstory_alcatraz_after；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目98（次要角色篇，艾莎维拉））
 - `rel_0011` 阿卡（阿卡） → 半神（半神）（关系：获授半神位格；时代：历史、主线；生效自：tp_history_aila_ruins_after；生效至：tp_mainline_hela_after；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目73（次要角色篇，阿卡））
 - `rel_0012` 凯瑟琳（凯瑟琳） → 半神（半神）（关系：获授半神位格；时代：历史、主线；生效自：tp_history_aila_ruins_after；生效至：tp_mainline_start；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目77（次要角色篇，凯瑟琳））
 - `rel_0013` 柯洛琳（柯洛琳） → 半触手族（半触手族）（关系：种族；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目（柯洛琳））
@@ -27,7 +27,7 @@
 - `rel_0021` 柯洛琳（柯洛琳） → 弗雷德（弗雷德）（关系：伴侣；时代：后日谈；生效自：tp_afterstory_alcatraz_after；机器语义：social.partner；状态：approved；出处：图鉴条目（柯洛琳））
 - `rel_0022` 柯赛特（柯赛特） → 菲亚（菲亚）（关系：夫妻；时代：主线、后日谈；生效自：tp_mainline_double_wedding；机器语义：social.spouse；状态：approved；出处：图鉴条目（柯赛特））
 - `rel_0023` 莉莉安（莉莉安） → 咖啡厅（咖啡厅）（关系：店长；时代：后日谈；机器语义：membership.leader_of；状态：approved；出处：图鉴条目（莉莉安））
-- `rel_0024` 迪（迪） → 守护者协会（守护者协会）（关系：会长；时代：后日谈；机器语义：membership.leader_of；状态：approved；出处：图鉴条目76（迪））
+- `rel_0024` 迪（迪） → 守护者协会（守护者协会）（关系：会长；时代：后日谈；生效自：tp_afterstory_next_generation_adult；机器语义：membership.leader_of；状态：approved；出处：图鉴条目76（迪））
 - `rel_0025` 凯瑟琳（凯瑟琳） → 神匠工会（神匠工会）（关系：会长；时代：后日谈；机器语义：membership.leader_of；状态：approved；出处：图鉴条目77（凯瑟琳））
 - `rel_0026` 雷诺（雷诺） → 诺亚使徒众（诺亚使徒众）（关系：使徒长；时代：后日谈；机器语义：membership.leader_of；状态：approved；出处：图鉴条目97（雷诺））
 - `rel_0027` 佐拉雅（佐拉雅） → 长耳族（长耳族）（关系：女王；时代：后日谈；生效至：tp_afterstory_latest；机器语义：membership.ruler_of；状态：approved；出处：图鉴条目90（佐拉雅））
@@ -54,11 +54,11 @@
 - `rel_0048` 索菲（索菲） → 伊罗之家（伊罗之家）（关系：成员（主线，后为菲尔保镖并结婚）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0049` 莉莉安（莉莉安） → 伊罗之家（伊罗之家）（关系：成员（主线，后加入咖啡厅）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0050` 菲亚（菲亚） → 凯瑟琳（凯瑟琳）（关系：养女；时代：主线、后日谈；机器语义：social.family；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0051` 罗威（罗威） → 海拉组织（海拉组织）（关系：头目；时代：主线；机器语义：membership.leader_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0051` 罗威（罗威） → 海拉组织（海拉组织）（关系：头目；时代：主线；生效至：tp_mainline_rowe_defeated；机器语义：membership.leader_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0052` 海拉组织（海拉组织） → 海拉事件（海拉事件）（关系：事件主体；时代：主线；生效自：tp_mainline_hela_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0053` 辛西娅（辛西娅） → 帝国事件（帝国事件）（关系：大反派；时代：主线；生效自：tp_mainline_empire_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0054` 辛西娅（辛西娅） → 希尔派（希尔派）（关系：成员（帝国之神）；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0055` 希塔恩（希塔恩） → 希尔派（希尔派）（关系：希尔派使徒及主谋；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0054` 辛西娅（辛西娅） → 希尔派（希尔派）（关系：成员（帝国之神）；时代：主线；生效至：tp_mainline_cynthia_defeated；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0055` 希塔恩（希塔恩） → 希尔派（希尔派）（关系：希尔派使徒及主谋；时代：主线；生效至：tp_mainline_hitaen_defeated；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0056` 希塔恩（希塔恩） → 圣嘉尔事件（圣嘉尔事件）（关系：大反派；时代：主线；生效自：tp_mainline_saint_gal_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0057` 希塔恩（希塔恩） → 星神之塔事件（星神之塔事件）（关系：大反派；时代：主线；生效自：tp_mainline_star_tower_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0058` 普利萨斯王（普利萨斯王） → 瓦利诺（瓦利诺）（关系：统治者；时代：主线；生效至：tp_mainline_valino_after；机器语义：membership.ruler_of；状态：approved；出处：作者补充 2026-08-13）
@@ -78,7 +78,7 @@
 - `rel_0074` 希尔（希尔） → 艾拉（艾拉）（关系：前任星神；时代：历史；机器语义：continuity.succeeded_by；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0075` 艾拉（艾拉） → 阿卡（阿卡）（关系：守护者位格授予者；时代：历史；生效自：tp_history_aila_ruins_after；机器语义：action.authorized；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0076` 艾拉（艾拉） → 阿托兰（阿托兰）（关系：守护者位格授予者；时代：主线；生效自：tp_mainline_start；机器语义：action.authorized；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0078` 希塔恩（希塔恩） → 希尔（希尔）（关系：最得意使徒；时代：主线；机器语义：membership.apostle_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0078` 希塔恩（希塔恩） → 希尔（希尔）（关系：最得意使徒；时代：主线；生效至：tp_mainline_hitaen_defeated；机器语义：membership.apostle_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0079` 希尔（希尔） → 格林（格林）（关系：曾邀请格林成为使徒但被拒绝；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0088` 塞西莉亚（塞西莉亚） → 诺亚（诺亚）（关系：与诺亚共同参加星神茶会；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0092` 雷恩（雷恩） → 菲亚（菲亚）（关系：队友；时代：主线；生效自：tp_mainline_hela_during；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -99,7 +99,7 @@
 - `rel_0107` 阿卡（阿卡） → 莉卡（莉卡）（关系：前辈兼搭档；时代：主线、后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0109` 凯瑟琳（凯瑟琳） → 柯赛特（柯赛特）（关系：培养者；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0111` 凯瑟琳（凯瑟琳） → 阿托兰（阿托兰）（关系：同僚；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0112` 辛西娅（辛西娅） → 艾琳娜（艾琳娜）（关系：身体占据者；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0112` 辛西娅（辛西娅） → 艾琳娜（艾琳娜）（关系：身体占据者；时代：主线；生效自：tp_mainline_cynthia_defeated；生效至：tp_mainline_cynthia_defeated；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0113` 雷恩（雷恩） → 艾琳娜（艾琳娜）（关系：受托照顾者；时代：主线；生效自：tp_mainline_cynthia_defeated；机器语义：action.protects；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0115` 马克（马克） → 莉卡（莉卡）（关系：恋人；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0116` 马克（马克） → 阿卡（阿卡）（关系：科研同僚；时代：主线、后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -117,12 +117,12 @@
 - `rel_0131` 佐拉雅（佐拉雅） → 雷恩（雷恩）（关系：盟友；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0132` 艾莎维拉（艾莎维拉） → 佐拉雅（佐拉雅）（关系：女王治下的子民；时代：后日谈；生效至：tp_afterstory_latest；机器语义：membership.servant_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0133` 艾莎维拉（艾莎维拉） → 长耳族（长耳族）（关系：子民；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0134` 长耳族（长耳族） → 奈菲莉亚（奈菲莉亚）（关系：奈菲莉亚原辖世界的原住种族；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0134` 长耳族（长耳族） → 奈菲莉亚（奈菲莉亚）（关系：被奈菲莉亚世界的阿尔卡特洛帝国抓捕并奴役的异星种族；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0135` 阿尔卡特洛帝国（阿尔卡特洛帝国） → 长耳族（长耳族）（关系：奴役；时代：后日谈；生效自：tp_afterstory_start；生效至：tp_afterstory_alcatraz_after；机器语义：action.enslaved；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0136` 阿尔卡特洛帝国（阿尔卡特洛帝国） → 奈菲莉亚（奈菲莉亚）（关系：位于奈菲莉亚原辖世界的帝国；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0137` 柯洛琳（柯洛琳） → 长耳族（长耳族）（关系：拯救者；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：action.rescued；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0139` 弗雷德（弗雷德） → 长耳族（长耳族）（关系：拯救者；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：action.rescued；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0140` 罗威（罗威） → 海拉据点：天文台（海拉据点：天文台）（关系：天文台负责人；时代：主线；机器语义：membership.leader_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0140` 罗威（罗威） → 海拉据点：天文台（海拉据点：天文台）（关系：天文台负责人；时代：主线；生效至：tp_mainline_rowe_defeated；机器语义：membership.leader_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0141` 奥蕾拉（奥蕾拉） → 艾莉丝（艾莉丝）（关系：情同姐妹；时代：主线、后日谈；机器语义：social.friend；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0142` 莱茵芳汀（莱茵芳汀） → 触手族（触手族）（关系：种族；时代：主线、后日谈；机器语义：identity.birth_species；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0144` 艾拉（艾拉） → 奈菲莉亚（奈菲莉亚）（关系：授权；时代：后日谈；生效自：tp_afterstory_star_thief_after；机器语义：action.authorized；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -156,14 +156,14 @@
 - `rel_0172` 菲尔（菲尔） → 伊罗之家（伊罗之家）（关系：建立者；时代：主线；生效自：tp_mainline_start；机器语义：membership.founder_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0173` 菲尔（菲尔） → 赛琳（赛琳）（关系：救命恩人（经手人线索）；时代：主线；生效自：tp_mainline_start；机器语义：action.rescued；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0174` 雷恩（雷恩） → 菲尔（菲尔）（关系：队友（主角团）；时代：主线；生效自：tp_mainline_iro_house_attack；机器语义：social.teammate；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0175` 阿亚（阿亚） → 希尔派（希尔派）（关系：成员（巅峰半神）；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0175` 阿亚（阿亚） → 希尔派（希尔派）（关系：成员（巅峰半神）；时代：主线；生效至：tp_mainline_hitaen_defeated；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0176` 希塔恩（希塔恩） → 阿亚（阿亚）（关系：吞噬融合；时代：主线；生效自：tp_mainline_star_tower_during；机器语义：action.transformed；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0177` 里安（里安） → 瓦利诺（瓦利诺）（关系：瓦利诺改革派领袖；时代：主线；机器语义：other.unspecified；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0178` 威尔汀（威尔汀） → 天使化（天使化）（关系：失控天使化个体；时代：主线；机器语义：identity.acquired_form；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0178` 威尔汀（威尔汀） → 天使化（天使化）（关系：失控天使化个体；时代：主线；生效自：tp_mainline_hela_during；生效至：tp_mainline_hela_after；机器语义：identity.acquired_form；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0179` 洛芬（洛芬） → 雷恩（雷恩）（关系：队友；时代：主线；生效自：tp_mainline_empire_during；机器语义：social.teammate；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0180` 赫克托（赫克托） → 雷恩（雷恩）（关系：皇宫阻拦者与交战对象；反向：击败赫克托的一方；时代：主线；生效自：tp_mainline_cynthia_defeated；生效至：tp_mainline_cynthia_defeated；机器语义：social.enemy；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0181` 红衣大主教（红衣大主教） → 辛西娅（辛西娅）（关系：受辛西娅影响；时代：主线；机器语义：other.unspecified；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0182` 红衣大主教（红衣大主教） → 赫尔帝国（赫尔帝国）（关系：帝国教廷掌权者；时代：主线；机器语义：membership.leader_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0182` 红衣大主教（红衣大主教） → 赫尔帝国（赫尔帝国）（关系：帝国教廷掌权者；时代：主线；生效至：tp_mainline_cynthia_defeated；机器语义：membership.leader_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0183` 阿丽娅（阿丽娅） → 艾萨克（艾萨克）（关系：受艾萨克委托清理尸鬼；时代：主线；机器语义：other.unspecified；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0184` 阿丽娅（阿丽娅） → 莱依奴族（莱依奴族）（关系：成员；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0185` 阿斯克特拉玛（阿斯克特拉玛） → 艾琪塔（艾琪塔）（关系：将艾琪塔变为肉球；时代：主线；生效自：tp_mainline_cube_investigation；机器语义：action.transformed；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
@@ -240,4 +240,7 @@
 - `rel_0259` 阿卡（阿卡） → 艾拉派（艾拉派）（关系：成员（三位至高守护者之一）；时代：主线；机器语义：membership.member_of；状态：approved；出处：艾拉派 fact_01579）
 - `rel_0260` 凯瑟琳（凯瑟琳） → 艾拉派（艾拉派）（关系：成员（三位至高守护者之一）；时代：主线；机器语义：membership.member_of；状态：approved；出处：艾拉派 fact_01579）
 - `rel_0261` 拉提斯（拉提斯） → 中立派（中立派）（关系：代表（瓦利诺）；时代：主线；机器语义：membership.member_of；状态：approved；出处：中立派 fact_01581）
-- `rel_0262` 拉提斯（拉提斯） → 希尔造物（希尔造物）（关系：器灵；时代：主线、后日谈；机器语义：other.unspecified；状态：approved；出处：拉提斯 fact_01521、fact_01526）
+- `rel_0262` 拉提斯（拉提斯） → 希尔造物（希尔造物）（关系：器灵；时代：历史、主线、后日谈；机器语义：other.unspecified；状态：approved；出处：拉提斯 fact_01521、fact_01526）
+- `rel_0263` 赫尔（赫尔） → 赫尔帝国（赫尔帝国）（关系：建立者（初代皇帝）；时代：历史；生效自：tp_history_empire_rise；机器语义：membership.founder_of；状态：approved；出处：赫尔 fact_01800 / 赫尔帝国 fact_01055）
+- `rel_0264` 赫尔（赫尔） → 纯白教廷（纯白教廷）（关系：建立者；时代：历史；生效自：tp_history_empire_rise；机器语义：membership.founder_of；状态：approved；出处：赫尔帝国 fact_01043 / 纯白教廷 fact_01803）
+- `rel_0265` 赫尔（赫尔） → 辛西娅（辛西娅）（关系：恋人；时代：历史；生效自：tp_history_empire_rise；机器语义：social.partner；状态：approved；出处：赫尔 fact_01799 / 辛西娅 fact_01509）
