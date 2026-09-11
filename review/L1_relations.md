@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：92dec6a75e9f…
+- 库版本：v2.1.1 ｜ 源库 sha256：c989e62dc3b8…
 - 本册覆盖：全部 240 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -22,8 +22,8 @@
 - `rel_0016` 佐拉雅（佐拉雅） → 长耳族（长耳族）（关系：种族；时代：后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目90（佐拉雅））
 - `rel_0017` 阿斯克特拉玛（阿斯克特拉玛） → 触手族（触手族）（关系：种族；时代：主线、后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目94（阿斯克特拉玛））
 - `rel_0018` 迪（迪） → 凯瑟琳（凯瑟琳）（关系：夫妻；时代：主线、后日谈；生效自：tp_mainline_double_wedding；机器语义：social.spouse；状态：approved；出处：图鉴条目76（迪））
-- `rel_0019` 柯洛琳（柯洛琳） → 迪（迪）（关系：父女；时代：后日谈；机器语义：social.family；状态：approved；出处：图鉴条目（柯洛琳））
-- `rel_0020` 柯洛琳（柯洛琳） → 凯瑟琳（凯瑟琳）（关系：母女；时代：后日谈；机器语义：social.family；状态：approved；出处：图鉴条目（柯洛琳））
+- `rel_0019` 柯洛琳（柯洛琳） → 迪（迪）（关系：父女；时代：后日谈；生效自：tp_afterstory_colleen_birth；机器语义：social.family；状态：approved；出处：图鉴条目（柯洛琳））
+- `rel_0020` 柯洛琳（柯洛琳） → 凯瑟琳（凯瑟琳）（关系：母女；时代：后日谈；生效自：tp_afterstory_colleen_birth；机器语义：social.family；状态：approved；出处：图鉴条目（柯洛琳））
 - `rel_0021` 柯洛琳（柯洛琳） → 弗雷德（弗雷德）（关系：伴侣；时代：后日谈；生效自：tp_afterstory_alcatraz_after；机器语义：social.partner；状态：approved；出处：图鉴条目（柯洛琳））
 - `rel_0022` 柯赛特（柯赛特） → 菲亚（菲亚）（关系：夫妻；时代：主线、后日谈；生效自：tp_mainline_double_wedding；机器语义：social.spouse；状态：approved；出处：图鉴条目（柯赛特））
 - `rel_0023` 莉莉安（莉莉安） → 咖啡厅（咖啡厅）（关系：店长；时代：后日谈；机器语义：membership.leader_of；状态：approved；出处：图鉴条目（莉莉安））
@@ -34,12 +34,12 @@
 - `rel_0028` 辛德蕾（辛德蕾） → 长耳族（长耳族）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目78（辛德蕾））
 - `rel_0029` 马克（马克） → 科研组（科研组）（关系：成员；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：membership.member_of；状态：approved；出处：图鉴条目75（马克））
 - `rel_0030` 莉卡（莉卡） → 科研组（科研组）（关系：成员；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：membership.member_of；状态：approved；出处：图鉴条目74（莉卡））
-- `rel_0031` 庭院（庭院） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：位于庄园深处；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目16（主舞台构成篇））
+- `rel_0031` 庭院（庭院） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：位于庄园深处；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：geography.located_in；状态：approved；出处：图鉴条目16（主舞台构成篇））
 - `rel_0032` 庭院别馆（庭院别馆） → 庭院（庭院）（关系：庭院边缘；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目21（主舞台构成篇））
 - `rel_0033` 核心区（核心区） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：城市中心；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目12（主舞台构成篇））
 - `rel_0034` 旧城区（旧城区） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：高墙环绕区；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目14（主舞台构成篇））
 - `rel_0035` 外城区（外城区） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：旧城区外；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目14（主舞台构成篇））
-- `rel_0036` 艾尔伯德工房都市（艾尔伯德工房都市） → 尸鬼废土（尸鬼废土）（关系：坐落于尸鬼荒原腹地；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目12（主舞台构成篇））
+- `rel_0036` 艾尔伯德工房都市（艾尔伯德工房都市） → 尸鬼废土（尸鬼废土）（关系：坐落于尸鬼荒原腹地；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：geography.located_in；状态：approved；出处：图鉴条目12（主舞台构成篇））
 - `rel_0037` 艾尔伯德自由都市（艾尔伯德自由都市） → 艾拉世界（艾拉世界）（关系：大陆北方；时代：主线；机器语义：geography.located_in；状态：approved；出处：图鉴条目9（世界构成篇））
 - `rel_0038` 圣嘉尔教国（圣嘉尔教国） → 艾拉世界（艾拉世界）（关系：艾拉的代行者教国；时代：历史、主线、后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目10（世界构成篇））
 - `rel_0039` 赫尔帝国（赫尔帝国） → 艾拉世界（艾拉世界）（关系：西北临海；时代：历史、主线；机器语义：geography.located_in；状态：approved；出处：作者裁决 2026-08-14（历史篇地理））
@@ -50,9 +50,9 @@
 - `rel_0044` 艾拉（艾拉） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：神力建造者；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：action.built；状态：approved；出处：图鉴条目12（主舞台构成篇））
 - `rel_0045` 艾拉（艾拉） → 叹息之墙（叹息之墙）（关系：建造者；时代：后日谈；生效自：tp_afterstory_wall_built；机器语义：action.built；状态：approved；出处：图鉴条目8（世界构成篇））
 - `rel_0046` 雷恩（雷恩） → 赛琳（赛琳）（关系：夫妻；时代：主线、后日谈；生效自：tp_mainline_valino_after；机器语义：social.spouse；状态：approved；出处：图鉴条目（主要角色篇，雷恩/赛琳））
-- `rel_0047` 柯赛特（柯赛特） → 伊罗之家（伊罗之家）（关系：成员（主线，后脱离加入咖啡厅）；时代：主线；生效至：tp_mainline_hela_during；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0048` 索菲（索菲） → 伊罗之家（伊罗之家）（关系：成员（主线，后为菲尔保镖并结婚）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0049` 莉莉安（莉莉安） → 伊罗之家（伊罗之家）（关系：成员（主线，后加入咖啡厅）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0047` 柯赛特（柯赛特） → 伊罗之家（伊罗之家）（关系：成员；时代：主线；生效至：tp_mainline_hela_during；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0048` 索菲（索菲） → 伊罗之家（伊罗之家）（关系：成员；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0049` 莉莉安（莉莉安） → 伊罗之家（伊罗之家）（关系：成员；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0050` 菲亚（菲亚） → 凯瑟琳（凯瑟琳）（关系：养女；时代：主线、后日谈；机器语义：social.family；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0051` 罗威（罗威） → 海拉组织（海拉组织）（关系：头目；时代：主线；生效至：tp_mainline_rowe_defeated；机器语义：membership.leader_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0052` 海拉组织（海拉组织） → 海拉事件（海拉事件）（关系：事件主体；时代：主线；生效自：tp_mainline_hela_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
@@ -102,7 +102,7 @@
 - `rel_0112` 辛西娅（辛西娅） → 艾琳娜（艾琳娜）（关系：身体占据者；时代：主线；生效自：tp_mainline_cynthia_defeated；生效至：tp_mainline_cynthia_defeated；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0113` 雷恩（雷恩） → 艾琳娜（艾琳娜）（关系：受托照顾者；时代：主线；生效自：tp_mainline_cynthia_defeated；机器语义：action.protects；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0115` 马克（马克） → 莉卡（莉卡）（关系：恋人；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0116` 马克（马克） → 阿卡（阿卡）（关系：科研同僚；时代：主线、后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0116` 马克（马克） → 阿卡（阿卡）（关系：科研同僚；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0117` 莉卡（莉卡） → 莱茵芳汀（莱茵芳汀）（关系：共生宿主；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0118` 玛琪娜（玛琪娜） → 莉卡（莉卡）（关系：科研组同僚；时代：后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0119` 玛琪娜（玛琪娜） → 马克（马克）（关系：科研组同僚；时代：后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -164,16 +164,16 @@
 - `rel_0180` 赫克托（赫克托） → 雷恩（雷恩）（关系：皇宫阻拦者与交战对象；反向：击败赫克托的一方；时代：主线；生效自：tp_mainline_cynthia_defeated；生效至：tp_mainline_cynthia_defeated；机器语义：social.enemy；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0181` 红衣大主教（红衣大主教） → 辛西娅（辛西娅）（关系：受辛西娅影响；时代：主线；机器语义：other.unspecified；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0182` 红衣大主教（红衣大主教） → 赫尔帝国（赫尔帝国）（关系：帝国教廷掌权者；时代：主线；生效至：tp_mainline_cynthia_defeated；机器语义：membership.leader_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0183` 阿丽娅（阿丽娅） → 艾萨克（艾萨克）（关系：受艾萨克委托清理尸鬼；时代：主线；机器语义：other.unspecified；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0183` 阿丽娅（阿丽娅） → 艾萨克（艾萨克）（关系：受艾萨克委托清理尸鬼；时代：主线；生效自：tp_mainline_ghoul_investigation；机器语义：other.unspecified；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0184` 阿丽娅（阿丽娅） → 莱依奴族（莱依奴族）（关系：成员；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0185` 阿斯克特拉玛（阿斯克特拉玛） → 艾琪塔（艾琪塔）（关系：将艾琪塔变为肉球；时代：主线；生效自：tp_mainline_cube_investigation；机器语义：action.transformed；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0186` 格雷特（格雷特） → 白圣女（白圣女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0190` 艾尔伯德工房都市（艾尔伯德工房都市） → 庭院（庭院）（关系：以庭院为中心扩建形成；时代：后日谈；机器语义：geography.expanded_around；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0191` 艾尔伯德工房都市（艾尔伯德工房都市） → 艾尔伯德自由都市（艾尔伯德自由都市）（关系：名称延续（并存，非同一城市）；时代：后日谈；机器语义：disambiguation.name_continuation；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0190` 艾尔伯德工房都市（艾尔伯德工房都市） → 庭院（庭院）（关系：以庭院为中心扩建形成；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：geography.expanded_around；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0191` 艾尔伯德工房都市（艾尔伯德工房都市） → 艾尔伯德自由都市（艾尔伯德自由都市）（关系：名称延续（并存，非同一城市）；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：disambiguation.name_continuation；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0192` 玛琪娜（玛琪娜） → 塞西莉亚（塞西莉亚）（关系：星神使徒；时代：后日谈；机器语义：membership.apostle_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0193` 罗塞别馆（罗塞别馆） → 艾尔伯德自由都市（艾尔伯德自由都市）（关系：位于自由都市；时代：主线；机器语义：geography.located_in；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0194` 迪（迪） → 罗塞别馆（罗塞别馆）（关系：管理人；时代：主线；机器语义：membership.employee_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0195` 莉莉安（莉莉安） → 罗塞别馆（罗塞别馆）（关系：店长；时代：主线；机器语义：membership.leader_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0193` 罗塞别馆（罗塞别馆） → 艾尔伯德自由都市（艾尔伯德自由都市）（关系：位于自由都市；时代：主线；生效自：tp_mainline_rosette_villa_opened；机器语义：geography.located_in；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0194` 迪（迪） → 罗塞别馆（罗塞别馆）（关系：管理人；时代：主线；生效自：tp_mainline_rosette_villa_opened；机器语义：membership.employee_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0195` 莉莉安（莉莉安） → 罗塞别馆（罗塞别馆）（关系：店长；时代：主线；生效自：tp_mainline_rosette_villa_opened；机器语义：membership.leader_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0196` 无名少女A（无名少女A） → 伊罗之家（伊罗之家）（关系：成员（主线）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 C3））
 - `rel_0197` 无名少女B（无名少女B） → 伊罗之家（伊罗之家）（关系：成员（主线）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 C3））
 - `rel_0198` 无名少女C（无名少女C） → 伊罗之家（伊罗之家）（关系：成员（主线）；时代：主线；生效至：tp_mainline_iro_house_disbanded；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 C3））
@@ -207,11 +207,11 @@
 - `rel_0226` 圣嘉尔教国（圣嘉尔教国） → 北方诸国（北方诸国）（关系：庇护同盟（和谐共存）；时代：历史；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
 - `rel_0227` 艾萨共和国（艾萨共和国） → 瑞恩联合王国（瑞恩联合王国）（关系：同盟国；时代：主线；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
 - `rel_0228` 艾萨共和国（艾萨共和国） → 圣嘉尔教国（圣嘉尔教国）（关系：同盟国；时代：主线；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
-- `rel_0229` 艾萨共和国（艾萨共和国） → 赫尔帝国（赫尔帝国）（关系：同盟国（辛西娅死后帝国加入）；时代：主线；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
+- `rel_0229` 艾萨共和国（艾萨共和国） → 赫尔帝国（赫尔帝国）（关系：同盟国（辛西娅死后帝国加入）；时代：主线；生效自：tp_mainline_empire_after；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
 - `rel_0230` 瑞恩联合王国（瑞恩联合王国） → 圣嘉尔教国（圣嘉尔教国）（关系：同盟国；时代：主线；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
-- `rel_0231` 瑞恩联合王国（瑞恩联合王国） → 赫尔帝国（赫尔帝国）（关系：同盟国；时代：主线；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
-- `rel_0232` 圣嘉尔教国（圣嘉尔教国） → 赫尔帝国（赫尔帝国）（关系：同盟国；时代：主线；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
-- `rel_0233` 艾尔伯德自由都市（艾尔伯德自由都市） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：姐妹城市；时代：后日谈；机器语义：disambiguation.distinct_from；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
+- `rel_0231` 瑞恩联合王国（瑞恩联合王国） → 赫尔帝国（赫尔帝国）（关系：同盟国；时代：主线；生效自：tp_mainline_empire_after；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
+- `rel_0232` 圣嘉尔教国（圣嘉尔教国） → 赫尔帝国（赫尔帝国）（关系：同盟国；时代：主线；生效自：tp_mainline_empire_after；机器语义：social.ally；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
+- `rel_0233` 艾尔伯德自由都市（艾尔伯德自由都市） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：姐妹城市；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：disambiguation.distinct_from；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
 - `rel_0234` 庭院别馆（庭院别馆） → 罗塞别馆（罗塞别馆）（关系：与罗塞别馆为不同地点；反向：与庭院别馆为不同地点；时代：主线、后日谈；机器语义：disambiguation.distinct_from；状态：approved；出处：D-9602）
 - `rel_0235` 南部群岛（南部群岛） → 西南群岛（西南群岛）（关系：与西南群岛为不同地点；反向：与南部群岛为不同地点；时代：历史；机器语义：disambiguation.distinct_from；状态：approved；出处：D-9603）
 - `rel_0236` 无名少女（无名少女） → 海拉幸存者（海拉幸存者）（关系：成员群体；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
@@ -219,21 +219,21 @@
 - `rel_0238` 莉莉安（莉莉安） → 海拉幸存者（海拉幸存者）（关系：成员（年长者）；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
 - `rel_0239` 柯赛特（柯赛特） → 海拉幸存者（海拉幸存者）（关系：成员（最年少）；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
 - `rel_0240` 索菲（索菲） → 海拉幸存者（海拉幸存者）（关系：成员；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0241` 无名少女A（无名少女A） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0242` 无名少女B（无名少女B） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0243` 无名少女C（无名少女C） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0244` 无名少女D（无名少女D） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0245` 无名少女E（无名少女E） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0246` 无名少女F（无名少女F） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0247` 无名少女G（无名少女G） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0248` 无名少女H（无名少女H） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0249` 无名少女I（无名少女I） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0250` 无名少女J（无名少女J） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0251` 无名少女K（无名少女K） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0252` 无名少女L（无名少女L） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0253` 无名少女M（无名少女M） → 无名少女（无名少女）（关系：成员（射手）；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0254` 无名少女N（无名少女N） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
-- `rel_0255` 无名少女O（无名少女O） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0241` 无名少女A（无名少女A） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0242` 无名少女B（无名少女B） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0243` 无名少女C（无名少女C） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0244` 无名少女D（无名少女D） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0245` 无名少女E（无名少女E） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0246` 无名少女F（无名少女F） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0247` 无名少女G（无名少女G） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0248` 无名少女H（无名少女H） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0249` 无名少女I（无名少女I） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0250` 无名少女J（无名少女J） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0251` 无名少女K（无名少女K） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0252` 无名少女L（无名少女L） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0253` 无名少女M（无名少女M） → 无名少女（无名少女）（关系：成员（射手）；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0254` 无名少女N（无名少女N） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0255` 无名少女O（无名少女O） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
 - `rel_0256` 阿卡（阿卡） → 科研组（科研组）（关系：领导；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：membership.leader_of；状态：approved；出处：科研组（图鉴条目）+ 阿卡 fact_00605）
 - `rel_0257` 玛琪娜（玛琪娜） → 科研组（科研组）（关系：成员；时代：后日谈；生效自：tp_afterstory_start；机器语义：membership.member_of；状态：approved；出处：科研组 fact_00998）
 - `rel_0258` 阿托兰（阿托兰） → 艾拉派（艾拉派）（关系：成员（三位至高守护者之一）；时代：主线；机器语义：membership.member_of；状态：approved；出处：艾拉派 fact_01579）

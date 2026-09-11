@@ -7,7 +7,7 @@
 
 ## 指纹
 
-- 源库 sha256：`92dec6a75e9fc8adce7ebcd8eb50c29c1dc235544c608ef63a34e94258cdec7c`
+- 源库 sha256：`c989e62dc3b89c19d07c6ee716b8e5d874c398372eeb79d93c1ff1d91c2e8668`
 - 库版本：v2.1.1 ｜ schema：2.1.1
 - 规模：199 实体 / 240 关系 / 1866 facts / 86 时间点
 

@@ -1,6 +1,6 @@
 # 主线时代分页合册
 
-- 库版本：v2.1.1 ｜ 源库 sha256：92dec6a75e9f…
+- 库版本：v2.1.1 ｜ 源库 sha256：c989e62dc3b8…
 - 本册为第 1 册（共 2 册），仅覆盖本时代实体的一部分，完整清单见 eras/mainline_*.md；
 - 完整覆盖：本时代有正文的实体 87 个；声明可用本时代的实体 118 个（其余为分页为空）。
 - 本册只含「主线」一个时代的内容，不含其它时代分页。
@@ -243,7 +243,7 @@
 **本时代相关关系**
 
 - `rel_0022` → 菲亚（菲亚）（关系：夫妻；机器语义：social.spouse）
-- `rel_0047` → 伊罗之家（伊罗之家）（关系：成员（主线，后脱离加入咖啡厅）；机器语义：membership.member_of）
+- `rel_0047` → 伊罗之家（伊罗之家）（关系：成员；机器语义：membership.member_of）
 - `rel_0109` ← 凯瑟琳（凯瑟琳）（关系：培养者；机器语义：other.unspecified）
 - `rel_0124` ← 雷恩（雷恩）（关系：战术小队队长；机器语义：social.teammate）
 - `rel_0239` → 海拉幸存者（海拉幸存者）（关系：成员（最年少）；机器语义：membership.member_of）
@@ -267,7 +267,7 @@
 
 **本时代相关关系**
 
-- `rel_0048` → 伊罗之家（伊罗之家）（关系：成员（主线，后为菲尔保镖并结婚）；机器语义：membership.member_of）
+- `rel_0048` → 伊罗之家（伊罗之家）（关系：成员；机器语义：membership.member_of）
 - `rel_0171` → 菲尔（菲尔）（关系：夫妻；机器语义：social.spouse）
 - `rel_0240` → 海拉幸存者（海拉幸存者）（关系：成员；机器语义：membership.member_of）
 
@@ -376,7 +376,7 @@
 
 **本时代相关关系**
 
-- `rel_0049` → 伊罗之家（伊罗之家）（关系：成员（主线，后加入咖啡厅）；机器语义：membership.member_of）
+- `rel_0049` → 伊罗之家（伊罗之家）（关系：成员；机器语义：membership.member_of）
 - `rel_0195` → 罗塞别馆（罗塞别馆）（关系：店长；机器语义：membership.leader_of）
 - `rel_0238` → 海拉幸存者（海拉幸存者）（关系：成员（年长者）；机器语义：membership.member_of）
 
@@ -801,9 +801,9 @@
 
 **本时代相关关系**
 
-- `rel_0047` ← 柯赛特（柯赛特）（关系：成员（主线，后脱离加入咖啡厅）；机器语义：membership.member_of）
-- `rel_0048` ← 索菲（索菲）（关系：成员（主线，后为菲尔保镖并结婚）；机器语义：membership.member_of）
-- `rel_0049` ← 莉莉安（莉莉安）（关系：成员（主线，后加入咖啡厅）；机器语义：membership.member_of）
+- `rel_0047` ← 柯赛特（柯赛特）（关系：成员；机器语义：membership.member_of）
+- `rel_0048` ← 索菲（索菲）（关系：成员；机器语义：membership.member_of）
+- `rel_0049` ← 莉莉安（莉莉安）（关系：成员；机器语义：membership.member_of）
 - `rel_0172` ← 菲尔（菲尔）（关系：建立者；机器语义：membership.founder_of）
 - `rel_0196` ← 无名少女A（无名少女A）（关系：成员（主线）；机器语义：membership.member_of）
 - `rel_0197` ← 无名少女B（无名少女B）（关系：成员（主线）；机器语义：membership.member_of）
