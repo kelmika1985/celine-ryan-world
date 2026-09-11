@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：8c1016917ccd…
+- 库版本：v2.1.1 ｜ 源库 sha256：9aa86695a44e…
 - 本册覆盖：全部 230 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -17,10 +17,10 @@
 - `rel_0011` 阿卡（阿卡） → 半神（半神）（关系：获授半神位格；时代：历史、主线；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目73（次要角色篇，阿卡））
 - `rel_0012` 凯瑟琳（凯瑟琳） → 半神（半神）（关系：获授半神位格；时代：历史、主线；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目77（次要角色篇，凯瑟琳））
 - `rel_0013` 柯洛琳（柯洛琳） → 半触手族（半触手族）（关系：种族；时代：后日谈；生效自：tp_afterstory_alcatraz_after；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目（柯洛琳））
-- `rel_0014` 莉卡（莉卡） → 机械体（机械体）（关系：种族；时代：后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目74（莉卡））
+- `rel_0014` 莉卡（莉卡） → 机械体（机械体）（关系：种族；时代：后日谈；机器语义：identity.acquired_form；状态：approved；出处：图鉴条目74（莉卡））
 - `rel_0015` 辛德蕾（辛德蕾） → 长耳族（长耳族）（关系：种族；时代：后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目78（辛德蕾））
 - `rel_0016` 佐拉雅（佐拉雅） → 长耳族（长耳族）（关系：种族；时代：后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目90（佐拉雅））
-- `rel_0017` 阿斯克特拉玛（阿斯克特拉玛） → 触手族（触手族）（关系：种族；时代：后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目94（阿斯克特拉玛））
+- `rel_0017` 阿斯克特拉玛（阿斯克特拉玛） → 触手族（触手族）（关系：种族；时代：主线、后日谈；机器语义：identity.birth_species；状态：approved；出处：图鉴条目94（阿斯克特拉玛））
 - `rel_0018` 迪（迪） → 凯瑟琳（凯瑟琳）（关系：夫妻；时代：主线、后日谈；生效自：tp_mainline_double_wedding；机器语义：social.spouse；状态：approved；出处：图鉴条目76（迪））
 - `rel_0019` 柯洛琳（柯洛琳） → 迪（迪）（关系：父女；时代：后日谈；机器语义：social.family；状态：approved；出处：图鉴条目（柯洛琳））
 - `rel_0020` 柯洛琳（柯洛琳） → 凯瑟琳（凯瑟琳）（关系：母女；时代：后日谈；机器语义：social.family；状态：approved；出处：图鉴条目（柯洛琳））

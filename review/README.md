@@ -1,6 +1,6 @@
 # 审查分册清单
 
-- 库版本：v2.1.1 ｜ 源库 sha256：`8c1016917ccdd291fbb04c9500d2f12cf82bf73b9d78fab64a8f45a2020a61ea`
+- 库版本：v2.1.1 ｜ 源库 sha256：`9aa86695a44e7c738775ae18deb0a514f9c07688427000a3b280c65be46753c5`
 - 每册的 sha256 与字符数见 `mirror/meta.json` 的 `files` 表（册内自指会形成循环，因此指纹统一记在 meta.json）。
 - 分册是同一份库的不同排版，不是新事实源，可由 `tools/build_mirror.py` 整体重建。
 
@@ -9,35 +9,35 @@
 | `review/L1_character_1.md` | 人物（第 1 册，共 7 册） | 实体 75 个 | 29873 字符 |
 | `review/L1_character_2.md` | 人物（第 2 册，共 7 册） | 实体 75 个 | 28763 字符 |
 | `review/L1_character_3.md` | 人物（第 3 册，共 7 册） | 实体 75 个 | 28576 字符 |
-| `review/L1_character_4.md` | 人物（第 4 册，共 7 册） | 实体 75 个 | 22316 字符 |
+| `review/L1_character_4.md` | 人物（第 4 册，共 7 册） | 实体 75 个 | 22395 字符 |
 | `review/L1_character_5.md` | 人物（第 5 册，共 7 册） | 实体 75 个 | 25939 字符 |
-| `review/L1_character_6.md` | 人物（第 6 册，共 7 册） | 实体 75 个 | 28425 字符 |
+| `review/L1_character_6.md` | 人物（第 6 册，共 7 册） | 实体 75 个 | 28428 字符 |
 | `review/L1_character_7.md` | 人物（第 7 册，共 7 册） | 实体 75 个 | 5289 字符 |
-| `review/L1_location_1.md` | 地点（第 1 册，共 2 册） | 实体 42 个 | 29920 字符 |
-| `review/L1_location_2.md` | 地点（第 2 册，共 2 册） | 实体 42 个 | 26807 字符 |
+| `review/L1_location_1.md` | 地点（第 1 册，共 2 册） | 实体 43 个 | 29920 字符 |
+| `review/L1_location_2.md` | 地点（第 2 册，共 2 册） | 实体 43 个 | 27917 字符 |
 | `review/L1_world_rule.md` | 世界规则 | 实体 26 个 | 20999 字符 |
 | `review/L1_group.md` | 群体 | 实体 23 个 | 21548 字符 |
 | `review/L1_event.md` | 事件 | 实体 20 个 | 26510 字符 |
-| `review/L1_race.md` | 种族 | 实体 7 个 | 8097 字符 |
 | `review/L1_item.md` | 物品 | 实体 6 个 | 5216 字符 |
+| `review/L1_race.md` | 种族 | 实体 6 个 | 6994 字符 |
 | `review/L1_era_history_1.md` | 历史时代（第 1 册，共 2 册） | 时代分页 34 个 | 29032 字符 |
 | `review/L1_era_history_2.md` | 历史时代（第 2 册，共 2 册） | 时代分页 34 个 | 9780 字符 |
 | `review/L1_era_mainline_1.md` | 主线时代（第 1 册，共 4 册） | 时代分页 84 个 | 28874 字符 |
-| `review/L1_era_mainline_2.md` | 主线时代（第 2 册，共 4 册） | 时代分页 84 个 | 29669 字符 |
+| `review/L1_era_mainline_2.md` | 主线时代（第 2 册，共 4 册） | 时代分页 84 个 | 29842 字符 |
 | `review/L1_era_mainline_3.md` | 主线时代（第 3 册，共 4 册） | 时代分页 84 个 | 28866 字符 |
 | `review/L1_era_mainline_4.md` | 主线时代（第 4 册，共 4 册） | 时代分页 84 个 | 12513 字符 |
 | `review/L1_era_afterstory_1.md` | 后日谈时代（第 1 册，共 3 册） | 时代分页 108 个 | 29463 字符 |
-| `review/L1_era_afterstory_2.md` | 后日谈时代（第 2 册，共 3 册） | 时代分页 108 个 | 29969 字符 |
+| `review/L1_era_afterstory_2.md` | 后日谈时代（第 2 册，共 3 册） | 时代分页 108 个 | 29889 字符 |
 | `review/L1_era_afterstory_3.md` | 后日谈时代（第 3 册，共 3 册） | 时代分页 108 个 | 28533 字符 |
-| `review/L1_facts_1.md` | facts 断言全集 第1册 | 1861 条 facts | 26649 字符 |
-| `review/L1_facts_2.md` | facts 断言全集 第2册 | 1861 条 facts | 27499 字符 |
-| `review/L1_facts_3.md` | facts 断言全集 第3册 | 1861 条 facts | 29227 字符 |
-| `review/L1_facts_4.md` | facts 断言全集 第4册 | 1861 条 facts | 29729 字符 |
-| `review/L1_facts_5.md` | facts 断言全集 第5册 | 1861 条 facts | 29689 字符 |
-| `review/L1_facts_6.md` | facts 断言全集 第6册 | 1861 条 facts | 25140 字符 |
-| `review/L1_relations.md` | 关系表 | 230 条关系 | 28709 字符 |
+| `review/L1_facts_1.md` | facts 断言全集 第1册 | 1862 条 facts | 26649 字符 |
+| `review/L1_facts_2.md` | facts 断言全集 第2册 | 1862 条 facts | 27578 字符 |
+| `review/L1_facts_3.md` | facts 断言全集 第3册 | 1862 条 facts | 29227 字符 |
+| `review/L1_facts_4.md` | facts 断言全集 第4册 | 1862 条 facts | 29729 字符 |
+| `review/L1_facts_5.md` | facts 断言全集 第5册 | 1862 条 facts | 29689 字符 |
+| `review/L1_facts_6.md` | facts 断言全集 第6册 | 1862 条 facts | 25140 字符 |
+| `review/L1_relations.md` | 关系表 | 230 条关系 | 28712 字符 |
 | `review/L1_timeline.md` | 时间线 | 86 个时间点 | 7682 字符 |
-| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 345404 字符 |
+| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 345496 字符 |
 
 ## 回传建议格式
 
