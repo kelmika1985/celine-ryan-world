@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：09512541c540…
+- 库版本：v2.1.1 ｜ 源库 sha256：4d5ffa111c34…
 - 本册覆盖：全部 240 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -95,7 +95,7 @@
 - `rel_0103` 露西亚（露西亚） → 埃利安（埃利安）（关系：主人；时代：后日谈；机器语义：membership.master_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0104` 阿卡（阿卡） → 凯瑟琳（凯瑟琳）（关系：神战战友；时代：主线；生效自：tp_mainline_star_tower_during；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0105` 阿卡（阿卡） → 阿托兰（阿托兰）（关系：同僚；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0106` 阿卡（阿卡） → 玛琪娜（玛琪娜）（关系：跨星系同僚；时代：后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0106` 阿卡（阿卡） → 玛琪娜（玛琪娜）（关系：跨星系同僚；时代：后日谈；生效自：tp_afterstory_twin_star_accord_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0107` 阿卡（阿卡） → 莉卡（莉卡）（关系：前辈兼搭档；时代：主线、后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0109` 凯瑟琳（凯瑟琳） → 柯赛特（柯赛特）（关系：培养者；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0111` 凯瑟琳（凯瑟琳） → 阿托兰（阿托兰）（关系：同僚；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -104,8 +104,8 @@
 - `rel_0115` 马克（马克） → 莉卡（莉卡）（关系：恋人；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0116` 马克（马克） → 阿卡（阿卡）（关系：科研同僚；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0117` 莉卡（莉卡） → 莱茵芳汀（莱茵芳汀）（关系：共生宿主；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0118` 玛琪娜（玛琪娜） → 莉卡（莉卡）（关系：科研组同僚；时代：后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0119` 玛琪娜（玛琪娜） → 马克（马克）（关系：科研组同僚；时代：后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0118` 玛琪娜（玛琪娜） → 莉卡（莉卡）（关系：科研组同僚；时代：后日谈；生效自：tp_afterstory_twin_star_accord_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0119` 玛琪娜（玛琪娜） → 马克（马克）（关系：科研组同僚；时代：后日谈；生效自：tp_afterstory_twin_star_accord_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0122` 迪（迪） → 马克（马克）（关系：搭档；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0124` 雷恩（雷恩） → 柯赛特（柯赛特）（关系：战术小队队长；时代：主线；生效自：tp_mainline_hela_after；生效至：tp_mainline_star_tower_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0125` 雷恩（雷恩） → 菲亚（菲亚）（关系：救出者；时代：主线；生效自：tp_mainline_iro_house_attack；机器语义：action.rescued；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -235,7 +235,7 @@
 - `rel_0254` 无名少女N（无名少女N） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
 - `rel_0255` 无名少女O（无名少女O） → 无名少女（无名少女）（关系：成员；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
 - `rel_0256` 阿卡（阿卡） → 科研组（科研组）（关系：领导；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：membership.leader_of；状态：approved；出处：科研组（图鉴条目）+ 阿卡 fact_00605）
-- `rel_0257` 玛琪娜（玛琪娜） → 科研组（科研组）（关系：成员；时代：后日谈；生效自：tp_afterstory_start；机器语义：membership.member_of；状态：approved；出处：科研组 fact_00998）
+- `rel_0257` 玛琪娜（玛琪娜） → 科研组（科研组）（关系：成员；时代：后日谈；生效自：tp_afterstory_twin_star_accord_after；机器语义：membership.member_of；状态：approved；出处：科研组 fact_00998）
 - `rel_0258` 阿托兰（阿托兰） → 艾拉派（艾拉派）（关系：成员（三位至高守护者之一）；时代：主线；机器语义：membership.member_of；状态：approved；出处：艾拉派 fact_01579）
 - `rel_0259` 阿卡（阿卡） → 艾拉派（艾拉派）（关系：成员（三位至高守护者之一）；时代：主线；机器语义：membership.member_of；状态：approved；出处：艾拉派 fact_01579）
 - `rel_0260` 凯瑟琳（凯瑟琳） → 艾拉派（艾拉派）（关系：成员（三位至高守护者之一）；时代：主线；机器语义：membership.member_of；状态：approved；出处：艾拉派 fact_01579）
