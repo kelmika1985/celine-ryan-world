@@ -1,7 +1,7 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：1e753c8e4db8…
-- 本册覆盖：全部 210 条关系。
+- 库版本：v2.1.1 ｜ 源库 sha256：8c1016917ccd…
+- 本册覆盖：全部 230 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
 - `rel_0001` 赛琳（赛琳） → 艾拉（艾拉）（关系：星神使徒；时代：主线、后日谈；生效自：tp_mainline_star_tower_after；机器语义：membership.apostle_of；状态：approved；出处：图鉴条目39（主要角色篇，赛琳））
@@ -45,8 +45,8 @@
 - `rel_0039` 赫尔帝国（赫尔帝国） → 艾拉世界（艾拉世界）（关系：西北临海；时代：历史、主线；机器语义：geography.located_in；状态：approved；出处：作者裁决 2026-08-14（历史篇地理））
 - `rel_0040` 东方地区（东方地区） → 艾拉世界（艾拉世界）（关系：山脉隔绝的东部；时代：主线；机器语义：geography.located_in；状态：approved；出处：图鉴条目11（世界构成篇））
 - `rel_0041` 艾萨共和国（艾萨共和国） → 艾拉世界（艾拉世界）（关系：帝国以东，与之接壤；时代：历史、主线；机器语义：geography.located_in；状态：approved；出处：作者裁决 2026-08-14（历史篇地理））
-- `rel_0042` 艾拉（艾拉） → 庭院（庭院）（关系：共同创建者；时代：后日谈；机器语义：membership.founder_of；状态：approved；出处：图鉴条目16（主舞台构成篇））
-- `rel_0043` 诺亚（诺亚） → 庭院（庭院）（关系：共同创建者；时代：后日谈；机器语义：membership.founder_of；状态：approved；出处：图鉴条目16（主舞台构成篇））
+- `rel_0042` 艾拉（艾拉） → 庭院（庭院）（关系：共同创建者；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.founder_of；状态：approved；出处：图鉴条目16（主舞台构成篇））
+- `rel_0043` 诺亚（诺亚） → 庭院（庭院）（关系：共同创建者；时代：后日谈；生效自：tp_afterstory_garden_built；机器语义：membership.founder_of；状态：approved；出处：图鉴条目16（主舞台构成篇））
 - `rel_0044` 艾拉（艾拉） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：神力建造者；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：action.built；状态：approved；出处：图鉴条目12（主舞台构成篇））
 - `rel_0045` 艾拉（艾拉） → 叹息之墙（叹息之墙）（关系：建造者；时代：后日谈；生效自：tp_afterstory_wall_built；机器语义：action.built；状态：approved；出处：图鉴条目8（世界构成篇））
 - `rel_0046` 雷恩（雷恩） → 赛琳（赛琳）（关系：夫妻；时代：主线、后日谈；生效自：tp_mainline_valino_after；机器语义：social.spouse；状态：approved；出处：图鉴条目（主要角色篇，雷恩/赛琳））
@@ -63,7 +63,7 @@
 - `rel_0057` 希塔恩（希塔恩） → 星神之塔事件（星神之塔事件）（关系：大反派；时代：主线；生效自：tp_mainline_star_tower_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0058` 普利萨斯王（普利萨斯王） → 瓦利诺（瓦利诺）（关系：统治者；时代：主线；机器语义：membership.ruler_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0059` 普利萨斯王（普利萨斯王） → 瓦利诺事件（瓦利诺事件）（关系：大反派；时代：主线；生效自：tp_mainline_valino_during；机器语义：event.participant；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0060` 拉提斯（拉提斯） → 普利萨斯王（普利萨斯王）（关系：爱人（权杖器灵）；时代：主线；机器语义：social.partner；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0060` 拉提斯（拉提斯） → 普利萨斯王（普利萨斯王）（关系：爱人（权杖器灵）；时代：主线；生效自：tp_mainline_start；机器语义：social.partner；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0061` 林迪雅（林迪雅） → 艾拉派（艾拉派）（关系：成员（圣嘉尔神）；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0062` 林迪雅（林迪雅） → 奥蕾拉（奥蕾拉）（关系：容器主人；时代：主线；机器语义：membership.master_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0063` 林迪雅（林迪雅） → 艾莉丝（艾莉丝）（关系：容器主人（前任）；时代：主线；机器语义：membership.master_of；状态：approved；出处：作者补充 2026-08-13）
@@ -101,7 +101,7 @@
 - `rel_0111` 凯瑟琳（凯瑟琳） → 阿托兰（阿托兰）（关系：同僚；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0112` 辛西娅（辛西娅） → 艾琳娜（艾琳娜）（关系：身体占据者；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0113` 雷恩（雷恩） → 艾琳娜（艾琳娜）（关系：受托照顾者；时代：主线；生效自：tp_mainline_cynthia_defeated；机器语义：action.protects；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0115` 马克（马克） → 莉卡（莉卡）（关系：恋人；时代：主线、后日谈；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0115` 马克（马克） → 莉卡（莉卡）（关系：恋人；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0116` 马克（马克） → 阿卡（阿卡）（关系：科研同僚；时代：主线、后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0117` 莉卡（莉卡） → 莱茵芳汀（莱茵芳汀）（关系：共生宿主；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0118` 玛琪娜（玛琪娜） → 莉卡（莉卡）（关系：科研组同僚；时代：后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -118,7 +118,7 @@
 - `rel_0132` 艾莎维拉（艾莎维拉） → 佐拉雅（佐拉雅）（关系：女王治下的子民；时代：后日谈；机器语义：membership.servant_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0133` 艾莎维拉（艾莎维拉） → 长耳族（长耳族）（关系：子民；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0134` 长耳族（长耳族） → 奈菲莉亚（奈菲莉亚）（关系：奈菲莉亚原辖世界的原住种族；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0135` 阿尔卡特洛帝国（阿尔卡特洛帝国） → 长耳族（长耳族）（关系：奴役；时代：后日谈；机器语义：action.enslaved；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0135` 阿尔卡特洛帝国（阿尔卡特洛帝国） → 长耳族（长耳族）（关系：奴役；时代：后日谈；生效自：tp_afterstory_start；机器语义：action.enslaved；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0136` 阿尔卡特洛帝国（阿尔卡特洛帝国） → 奈菲莉亚（奈菲莉亚）（关系：位于奈菲莉亚原辖世界的帝国；时代：后日谈；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0137` 柯洛琳（柯洛琳） → 长耳族（长耳族）（关系：拯救者；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：action.rescued；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0139` 弗雷德（弗雷德） → 长耳族（长耳族）（关系：拯救者；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：action.rescued；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
@@ -129,16 +129,16 @@
 - `rel_0145` 艾拉（艾拉） → 长耳族（长耳族）（关系：保护；时代：后日谈；生效自：tp_afterstory_alcatraz_after；机器语义：action.protects；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0146` 卡珊（卡珊） → 柯洛琳（柯洛琳）（关系：学院室友；时代：后日谈；生效自：tp_afterstory_city_academy_phase；生效至：tp_afterstory_city_academy_phase；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0147` 洛蒂（洛蒂） → 安娜（安娜）（关系：朋友；时代：后日谈；机器语义：social.friend；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0148` 长耳族协约者（长耳族协约者） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：入驻工房都市的协约者群体；时代：后日谈；机器语义：geography.migrated_to；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0149` 洛蒂（洛蒂） → 格林（格林）（关系：恋人；时代：后日谈；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0148` 长耳族协约者（长耳族协约者） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：入驻工房都市的协约者群体；时代：后日谈；生效自：tp_afterstory_long_ear_accord；机器语义：geography.migrated_to；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0149` 洛蒂（洛蒂） → 格林（格林）（关系：恋人；时代：后日谈；生效自：tp_afterstory_nostadt_migration_after；机器语义：social.partner；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0150` 安娜（安娜） → 阿尔卡特洛帝国事件（阿尔卡特洛帝国事件）（关系：国师（大反派）；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0151` 柯洛琳（柯洛琳） → 阿尔卡特洛帝国事件（阿尔卡特洛帝国事件）（关系：被劫走卷入；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0152` 弗雷德（弗雷德） → 阿尔卡特洛帝国事件（阿尔卡特洛帝国事件）（关系：被劫走卷入；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0153` 诺亚（诺亚） → 阿尔卡特洛帝国事件（阿尔卡特洛帝国事件）（关系：帝国覆灭执行者；时代：后日谈；生效自：tp_afterstory_alcatraz_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0154` 安娜（安娜） → 窃星者事件（窃星者事件）（关系：单人袭击者；时代：后日谈；生效自：tp_afterstory_star_thief_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0155` 奈菲莉亚（奈菲莉亚） → 窃星者事件（窃星者事件）（关系：求情者；时代：后日谈；生效自：tp_afterstory_star_thief_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0156` 格雷特（格雷特） → 海拉复辟事件（海拉复辟事件）（关系：核心人物；时代：后日谈；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0157` 诺亚（诺亚） → 海拉复辟事件（海拉复辟事件）（关系：事件解决者；时代：后日谈；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0156` 格雷特（格雷特） → 海拉复辟事件（海拉复辟事件）（关系：核心人物；时代：后日谈；生效自：tp_afterstory_next_generation_adult；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0157` 诺亚（诺亚） → 海拉复辟事件（海拉复辟事件）（关系：事件解决者；时代：后日谈；生效自：tp_afterstory_next_generation_adult；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0158` 阿卡（阿卡） → 一日战争（一日战争）（关系：被误解的守护者；时代：历史；生效自：tp_history_one_day_war_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0159` 辛西娅（辛西娅） → 一日战争（一日战争）（关系：事件真相制造者；时代：历史；生效自：tp_history_one_day_war_during；机器语义：event.instigator；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0160` 赫尔帝国（赫尔帝国） → 一日战争（一日战争）（关系：战败方；时代：历史；生效自：tp_history_one_day_war_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
@@ -152,8 +152,8 @@
 - `rel_0168` 希尔（希尔） → 诺斯塔特移民（诺斯塔特移民）（关系：准许迁移并安排克罗留守；时代：后日谈；生效自：tp_afterstory_nostadt_migration_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0169` 诺亚（诺亚） → 神力产量溢出事件（神力产量溢出事件）（关系：决策者；时代：后日谈；生效自：tp_afterstory_overflow_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0170` 庭院（庭院） → 神力产量溢出事件（神力产量溢出事件）（关系：神力产能来源；时代：后日谈；生效自：tp_afterstory_overflow_during；机器语义：event.participant；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0171` 索菲（索菲） → 菲尔（菲尔）（关系：夫妻；时代：主线；机器语义：social.spouse；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
-- `rel_0172` 菲尔（菲尔） → 伊罗之家（伊罗之家）（关系：建立者；时代：主线；机器语义：membership.founder_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0171` 索菲（索菲） → 菲尔（菲尔）（关系：夫妻；时代：主线；生效自：tp_mainline_valino_after；机器语义：social.spouse；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
+- `rel_0172` 菲尔（菲尔） → 伊罗之家（伊罗之家）（关系：建立者；时代：主线；生效自：tp_mainline_start；机器语义：membership.founder_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0173` 菲尔（菲尔） → 赛琳（赛琳）（关系：救命恩人（经手人线索）；时代：主线；生效自：tp_mainline_start；机器语义：action.rescued；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0174` 雷恩（雷恩） → 菲尔（菲尔）（关系：队友（主角团）；时代：主线；生效自：tp_mainline_iro_house_attack；机器语义：social.teammate；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
 - `rel_0175` 阿亚（阿亚） → 希尔派（希尔派）（关系：成员（巅峰半神）；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者裁决 2026-08-14（审查裁决汇总 批4））
@@ -214,3 +214,23 @@
 - `rel_0233` 艾尔伯德自由都市（艾尔伯德自由都市） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：姐妹城市；时代：后日谈；机器语义：disambiguation.distinct_from；状态：approved；出处：作者裁决 2026-08-14（全篇通审·关系补充））
 - `rel_0234` 庭院别馆（庭院别馆） → 罗塞别馆（罗塞别馆）（关系：与罗塞别馆为不同地点；反向：与庭院别馆为不同地点；时代：主线、后日谈；机器语义：disambiguation.distinct_from；状态：approved；出处：D-9602）
 - `rel_0235` 南部群岛（南部群岛） → 西南群岛（西南群岛）（关系：与西南群岛为不同地点；反向：与南部群岛为不同地点；时代：历史；机器语义：disambiguation.distinct_from；状态：approved；出处：D-9603）
+- `rel_0236` 无名少女（无名少女） → 海拉幸存者（海拉幸存者）（关系：成员群体；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0237` 赛琳（赛琳） → 海拉幸存者（海拉幸存者）（关系：成员；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0238` 莉莉安（莉莉安） → 海拉幸存者（海拉幸存者）（关系：成员（年长者）；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0239` 柯赛特（柯赛特） → 海拉幸存者（海拉幸存者）（关系：成员（最年少）；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0240` 索菲（索菲） → 海拉幸存者（海拉幸存者）（关系：成员；时代：主线、后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0241` 无名少女A（无名少女A） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0242` 无名少女B（无名少女B） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0243` 无名少女C（无名少女C） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0244` 无名少女D（无名少女D） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0245` 无名少女E（无名少女E） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0246` 无名少女F（无名少女F） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0247` 无名少女G（无名少女G） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0248` 无名少女H（无名少女H） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0249` 无名少女I（无名少女I） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0250` 无名少女J（无名少女J） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0251` 无名少女K（无名少女K） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0252` 无名少女L（无名少女L） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0253` 无名少女M（无名少女M） → 无名少女（无名少女）（关系：成员（射手）；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0254` 无名少女N（无名少女N） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））
+- `rel_0255` 无名少女O（无名少女O） → 无名少女（无名少女）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目17（主舞台构成篇））

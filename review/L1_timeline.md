@@ -1,7 +1,7 @@
 # L1 分册：时间线
 
-- 库版本：v2.1.1 ｜ 源库 sha256：1e753c8e4db8…
-- 本册覆盖：全部 83 个时间点。
+- 库版本：v2.1.1 ｜ 源库 sha256：8c1016917ccd…
+- 本册覆盖：全部 86 个时间点。
 - 时间点用于表达「某事件发生时 / 某事件后开始」等有序锚点，不虚构公历日期。
 
 | id | 时代 | 序 | 名称 | 置信度 | 状态 | 改自 |
@@ -86,6 +86,9 @@
 | `tp_afterstory_xindelei_outer_district_admin` | 后日谈 | 810 | 辛德蕾出任外城区分部管理员 | canon | approved | D-4078 |
 | `tp_afterstory_star_thief_during` | 后日谈 | 820 | 窃星者事件期间 | canon | approved | D-1448 |
 | `tp_afterstory_star_thief_after` | 后日谈 | 840 | 窃星者事件之后 | canon | approved | D-1449 |
+| `tp_afterstory_anna_pillar` | 后日谈 | 860 | 安娜成为柱 | canon | approved | D-4240 |
+| `tp_afterstory_anna_rescue` | 后日谈 | 880 | 真祖救下安娜并下咒 | canon | approved | D-4275 |
 | `tp_afterstory_overflow_during` | 后日谈 | 900 | 神力产量溢出阶段 | canon | approved | D-1450 |
+| `tp_afterstory_anna_cafe` | 后日谈 | 910 | 安娜入驻咖啡厅 | canon | approved | D-4241 |
 | `tp_afterstory_gate_built` | 后日谈 | 950 | 巨型奇观建筑门建成 | canon | approved | D-1451 |
 | `tp_afterstory_latest` | 后日谈 | 990 | 当前后日谈最新时间点 | derived | approved | D-1452 |
