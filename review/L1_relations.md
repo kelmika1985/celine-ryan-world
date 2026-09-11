@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：4d5ffa111c34…
+- 库版本：v2.1.1 ｜ 源库 sha256：63f8d14a06b5…
 - 本册覆盖：全部 240 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -96,7 +96,7 @@
 - `rel_0104` 阿卡（阿卡） → 凯瑟琳（凯瑟琳）（关系：神战战友；时代：主线；生效自：tp_mainline_star_tower_during；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0105` 阿卡（阿卡） → 阿托兰（阿托兰）（关系：同僚；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0106` 阿卡（阿卡） → 玛琪娜（玛琪娜）（关系：跨星系同僚；时代：后日谈；生效自：tp_afterstory_twin_star_accord_after；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
-- `rel_0107` 阿卡（阿卡） → 莉卡（莉卡）（关系：前辈兼搭档；时代：主线、后日谈；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
+- `rel_0107` 阿卡（阿卡） → 莉卡（莉卡）（关系：前辈兼搭档；时代：主线、后日谈；生效自：tp_mainline_empire_during；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0109` 凯瑟琳（凯瑟琳） → 柯赛特（柯赛特）（关系：培养者；时代：主线；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0111` 凯瑟琳（凯瑟琳） → 阿托兰（阿托兰）（关系：同僚；时代：主线；机器语义：social.teammate；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
 - `rel_0112` 辛西娅（辛西娅） → 艾琳娜（艾琳娜）（关系：身体占据者；时代：主线；生效自：tp_mainline_cynthia_defeated；生效至：tp_mainline_cynthia_defeated；机器语义：other.unspecified；状态：approved；出处：1.4.6 迁移 + 作者裁决 2026-08-13）
