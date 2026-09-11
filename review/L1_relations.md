@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：c989e62dc3b8…
+- 库版本：v2.1.1 ｜ 源库 sha256：0141038848dc…
 - 本册覆盖：全部 240 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -68,7 +68,7 @@
 - `rel_0062` 林迪雅（林迪雅） → 奥蕾拉（奥蕾拉）（关系：容器主人；时代：主线；机器语义：membership.master_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0063` 林迪雅（林迪雅） → 艾莉丝（艾莉丝）（关系：容器主人（前任）；时代：主线；机器语义：membership.master_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0064` 希尔派（希尔派） → 希尔（希尔）（关系：由希尔提拔的旧神追随者群体；时代：主线；机器语义：membership.servant_of；状态：approved；出处：作者补充 2026-08-13）
-- `rel_0065` 凯瑟琳（凯瑟琳） → 逆光旅团（逆光旅团）（关系：首领（罗莎莉亚）；时代：主线；生效至：tp_mainline_empire_after；机器语义：membership.leader_of；状态：approved；出处：作者补充 2026-08-13）
+- `rel_0065` 凯瑟琳（凯瑟琳） → 逆光旅团（逆光旅团）（关系：首领（罗莎莉亚）；时代：主线；生效自：tp_mainline_empire_during；生效至：tp_mainline_empire_after；机器语义：membership.leader_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0066` 伊尔教（伊尔教） → 阿卡（阿卡）（关系：崇拜破坏神阿卡的教团；时代：主线；机器语义：other.unspecified；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0067` 艾萨克（艾萨克） → 艾萨共和国（艾萨共和国）（关系：总统兼守护神；时代：主线；机器语义：membership.ruler_of；状态：approved；出处：作者补充 2026-08-13）
 - `rel_0068` 艾萨克（艾萨克） → 中立派（中立派）（关系：成员；时代：主线；机器语义：membership.member_of；状态：approved；出处：作者补充 2026-08-13）
