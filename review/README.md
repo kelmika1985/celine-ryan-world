@@ -1,6 +1,6 @@
 # 审查分册清单
 
-- 库版本：v2.1.1 ｜ 源库 sha256：`2ee00992c6c5b0d18d440ae4f9485524392d3e00e2159fec54cd2141eee671ef`
+- 库版本：v2.1.1 ｜ 源库 sha256：`09512541c540e70124c363b67587864986a3fabda7c067a86dafc3e741c3abae`
 - 每册的 sha256 与字符数见 `mirror/meta.json` 的 `files` 表（册内自指会形成循环，因此指纹统一记在 meta.json）。
 - 分册是同一份库的不同排版，不是新事实源，可由 `tools/build_mirror.py` 整体重建。
 
@@ -36,9 +36,9 @@
 | `review/L1_facts_4.md` | facts 断言全集 第4册 | 1867 条 facts | 29918 字符 |
 | `review/L1_facts_5.md` | facts 断言全集 第5册 | 1867 条 facts | 29833 字符 |
 | `review/L1_facts_6.md` | facts 断言全集 第6册 | 1867 条 facts | 27335 字符 |
-| `review/L1_relations.md` | 关系表 | 240 条关系 | 32508 字符 |
+| `review/L1_relations.md` | 关系表 | 240 条关系 | 32542 字符 |
 | `review/L1_timeline.md` | 时间线 | 86 个时间点 | 7682 字符 |
-| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 356265 字符 |
+| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 356299 字符 |
 
 ## 回传建议格式
 
