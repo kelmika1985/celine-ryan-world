@@ -3,15 +3,15 @@
   "db_version": "v2.1.1",
   "schema_version": "2.1.1",
   "source_world_file": "world/world.json",
-  "source_sha256": "5e2a1399e4eec1f70176099489ac77dd5ad506f8705ef9fb900aebb8961840fb",
-  "release_manifest_sha256": "5e2a1399e4eec1f70176099489ac77dd5ad506f8705ef9fb900aebb8961840fb",
-  "release_published_at": "2026-09-14 19:09:25",
+  "source_sha256": "4fa8ef14e4dd69e61f335067abd0b73874ad42a880e89c716d2431c35833adf6",
+  "release_manifest_sha256": "4fa8ef14e4dd69e61f335067abd0b73874ad42a880e89c716d2431c35833adf6",
+  "release_published_at": "2026-09-14 19:37:12",
   "db_last_updated": "2026-09-11T20:58:33+08:00",
-  "generated_at": "2026-09-14T19:11:25",
+  "generated_at": "2026-09-14T19:38:51",
   "counts": {
     "entities": 199,
     "relations": 240,
-    "facts": 1891,
+    "facts": 1916,
     "timeline": 86
   },
   "audit": {
@@ -22,19 +22,19 @@
   },
   "files": {
     "index.json": {
-      "sha256": "fd70291568a5f6a8f386d4bc83f384b0d914082d12fd89136de67587dc18e60c",
-      "chars": 29425
+      "sha256": "6721bcc92e7bba85bd2848fc96ea1520556abe940281b4e682e2f5f7028e6e68",
+      "chars": 29430
     },
     "index.md": {
-      "sha256": "72015289e34a8f2a3b253f09e9d116e25f0312d31e3957149472a7ecb6868158",
-      "chars": 17733
+      "sha256": "3182ad16ca1c82de84bc5d2b35d09d708d3ef4c5cd4252e7853d60d6bd0dea15",
+      "chars": 17738
     },
     "entities/克拉拉.json": {
       "sha256": "8ca05c6ff0dec7102127289aee57428d4902f264d36917f57776c69972153314",
       "chars": 2495
     },
     "entities/克拉拉.md": {
-      "sha256": "fed8328256c4d5cb5fb484f232abf30573a97f06e70f1e28a3b939643a186163",
+      "sha256": "884e906813450c1b5beea721b9a2a44109faec5851f78c1645945a4be605b7fc",
       "chars": 1250
     },
     "entities/卡珊.json": {
@@ -42,7 +42,7 @@
       "chars": 1681
     },
     "entities/卡珊.md": {
-      "sha256": "0c54ba2e3e788b37fa562c810b810438795f4e7eff737cf0b8f6a6f0c5b757fb",
+      "sha256": "a16e3c5022d11392f6958344bbfd1f7b66c132944d2c7c860786dd9c2c6dfaec",
       "chars": 890
     },
     "entities/埃利安.json": {
@@ -50,7 +50,7 @@
       "chars": 5777
     },
     "entities/埃利安.md": {
-      "sha256": "67cc7d36e9a6c3e75c5068225eb73e7ec89cbae65c3f3282bf850b0ab9fc5f44",
+      "sha256": "4f4f2f6b888e418a6878950af85b886b2752c88bc9b2cee0f1c7395f9abae897",
       "chars": 2316
     },
     "entities/塞西莉亚.json": {
@@ -58,7 +58,7 @@
       "chars": 4257
     },
     "entities/塞西莉亚.md": {
-      "sha256": "80cd96103a0c4368ac930772ee8be03a7817f04dba4e7e59db6b651ad48fc498",
+      "sha256": "8938287c02cbba685a75753661f92e6481c8215f65183e52a1ba237fb6d2d1f0",
       "chars": 1747
     },
     "entities/弗雷德.json": {
@@ -66,7 +66,7 @@
       "chars": 4753
     },
     "entities/弗雷德.md": {
-      "sha256": "519e7e6d01a232090d59d2938743fdb5be79cb09fb8c65715c60ca4918b1f56b",
+      "sha256": "51ca3706ea6a54a382f2cde01fe0817a3fe4dd429314afa906e8feb1477ceb0c",
       "chars": 2018
     },
     "entities/柯洛琳.json": {
@@ -74,7 +74,7 @@
       "chars": 7983
     },
     "entities/柯洛琳.md": {
-      "sha256": "829274b3f12cd02233130c7b288c78893e9fadb496db0fba431aedd14be0cfae",
+      "sha256": "7333ffb4b19b073fcd4a58af10b3b79f02dc30ac4e7a97e01d8e69be7539a01b",
       "chars": 3381
     },
     "entities/柯赛特.json": {
@@ -82,7 +82,7 @@
       "chars": 16387
     },
     "entities/柯赛特.md": {
-      "sha256": "f7d97054c307acaa271ce21dd12f6dd29015cb8ec9cb85aec00102e2cbc25910",
+      "sha256": "d375dad83fac1559b3fdc721626fdedab0424ef1d9807ef1b86a710d0ac65e0d",
       "chars": 6047
     },
     "entities/格林.json": {
@@ -90,7 +90,7 @@
       "chars": 6086
     },
     "entities/格林.md": {
-      "sha256": "20f4999393e9abd97def07a61630d38a8b0a7148bb1164deca8320b567c9aad6",
+      "sha256": "c477273dc12260ba5e3bf6cc6d13a1c0b98fdbe8bd4252dd65d60718ffdcb509",
       "chars": 2713
     },
     "entities/洛蒂.json": {
@@ -98,7 +98,7 @@
       "chars": 4516
     },
     "entities/洛蒂.md": {
-      "sha256": "2894af1abdc0d5de8c735ad8349ed2da3514e25eb24cd35b885999ed9604996c",
+      "sha256": "b60932a227ac509f7dd7fa6080770f715ebdd35f77cb42bad8def629e321dd4c",
       "chars": 1956
     },
     "entities/玛琪娜.json": {
@@ -106,7 +106,7 @@
       "chars": 3856
     },
     "entities/玛琪娜.md": {
-      "sha256": "e3d103359b216654cba701b324d9105cc41b267c7d04c71b798258fa72951bcc",
+      "sha256": "ea87d1f898605ad37e0c7b888ad7198b0b9def6ea64ecdd454fa1161bbae4da7",
       "chars": 1736
     },
     "entities/艾拉.json": {
@@ -114,7 +114,7 @@
       "chars": 15922
     },
     "entities/艾拉.md": {
-      "sha256": "73895a333fc67ba2462faf7d418041b5dd8fe585bc50f1a6256a3c692ecdf149",
+      "sha256": "97380dfcdd6c4144dc80b8910c9d352993d43355faf90296d773cd03ce043aa8",
       "chars": 5884
     },
     "entities/艾斯缇娜.json": {
@@ -122,7 +122,7 @@
       "chars": 2970
     },
     "entities/艾斯缇娜.md": {
-      "sha256": "1e85200cac1eb3ba9d5292ab9eb73ec971e1aba94a07441564ad253558245255",
+      "sha256": "9def2015179bafc7a42c57b95158b805eecd576119f42f3cd765e2205bed0794",
       "chars": 1496
     },
     "entities/莉亚.json": {
@@ -130,7 +130,7 @@
       "chars": 2081
     },
     "entities/莉亚.md": {
-      "sha256": "d3faea2229c2ac3b37910d851d663e62d3043d45ecb1a0946296968fbe557619",
+      "sha256": "36eca577dcbde8224e8479ce11b61367b7088e4f4713a7b35bbbb478cfd52767",
       "chars": 1117
     },
     "entities/莉卡.json": {
@@ -138,7 +138,7 @@
       "chars": 14142
     },
     "entities/莉卡.md": {
-      "sha256": "c1743a734a21b235d3a210cdf4f71ba4ead6f87b6b74232be6f01d233099d171",
+      "sha256": "911ffc152ec1f8c5b2414351469b14d14f680db4459782e1b3762ec42baeaa96",
       "chars": 5335
     },
     "entities/莉莉安.json": {
@@ -146,7 +146,7 @@
       "chars": 7301
     },
     "entities/莉莉安.md": {
-      "sha256": "2e229fdba89ba8025f8e538022fa6756a769e1ac144d4ae6e95b88c5e200d44d",
+      "sha256": "f9488dafc0b1804ca87c1f4106deb2b3001bb8dff593394cc5bbcba2d8230506",
       "chars": 2781
     },
     "entities/菲亚.json": {
@@ -154,7 +154,7 @@
       "chars": 14028
     },
     "entities/菲亚.md": {
-      "sha256": "eb9e34245c2607fd85b6668be216ecfb168cfc7e1eee49fc3af3938234cbbefa",
+      "sha256": "7e252af5a553982ab58bbce7a43bc9ee8810b39d343275815caa3e13f57f1ca1",
       "chars": 5141
     },
     "entities/诺亚.json": {
@@ -162,7 +162,7 @@
       "chars": 9312
     },
     "entities/诺亚.md": {
-      "sha256": "5f321219f6ad078fddefb3f8fb0e21ad1abdc52a85a1c7afb261cd7127742b9d",
+      "sha256": "661a3087e50382180f20bf9138faaa6d5a64ab7ee1cd31c630cdacf7f1c3517a",
       "chars": 3572
     },
     "entities/赛琳.json": {
@@ -170,7 +170,7 @@
       "chars": 26016
     },
     "entities/赛琳.md": {
-      "sha256": "709a44833009dd8ad4fd2fe2ca6cef5ca24ac48362b4aeaf43ad9b57614a866f",
+      "sha256": "876db123c3eb4eeb67aefe195f42b75651af43a3bee8aa37d4aa4112b1e5bd12",
       "chars": 9683
     },
     "entities/迪.json": {
@@ -178,7 +178,7 @@
       "chars": 13849
     },
     "entities/迪.md": {
-      "sha256": "33e788084e532666940f664fa37974d3172a67c8c46549c70018579458aa7ee3",
+      "sha256": "b0255e7152a5299a02b0248d4408ac7a56f7a4e262409323e5fefb3393bb49c3",
       "chars": 5184
     },
     "entities/阿卡.json": {
@@ -186,7 +186,7 @@
       "chars": 16685
     },
     "entities/阿卡.md": {
-      "sha256": "4a6a6d8cdac607cad691584155d3108c53fc7afe765c65aef8697a212d263139",
+      "sha256": "c517c82107038a77fbaf08a758df6e5c3d5b8c6d773fca8c5cc6c9b58444b296",
       "chars": 6334
     },
     "entities/雷恩.json": {
@@ -194,7 +194,7 @@
       "chars": 33272
     },
     "entities/雷恩.md": {
-      "sha256": "021331cd12720d0f97b5c690aa7c84ec636f4aa61afeb3ebef7eab81cc0bad1f",
+      "sha256": "dc8b6f479e269b18a9656b2e08b88fa94c110d636e174fe88d89391c4e9c656c",
       "chars": 12705
     },
     "entities/露西亚.json": {
@@ -202,7 +202,7 @@
       "chars": 1411
     },
     "entities/露西亚.md": {
-      "sha256": "e6c8ae08bb22c25a9252a7c154e59434c1bf0171e8670e654bdef05837113e14",
+      "sha256": "066f635de74937c13f6836aae4b266812b6c6023628e686024cdd85493898cd9",
       "chars": 735
     },
     "entities/马克.json": {
@@ -210,7 +210,7 @@
       "chars": 12294
     },
     "entities/马克.md": {
-      "sha256": "1d949f71d99556e18620d78a78533180ccc93b60fb0eab0a4c54c1a4da39456a",
+      "sha256": "71d25275b8d5b63b3a55fce13dd9d1684892146fdbc18f58dcad03618f91c704",
       "chars": 4524
     },
     "entities/东方地区.json": {
@@ -218,7 +218,7 @@
       "chars": 1478
     },
     "entities/东方地区.md": {
-      "sha256": "dcaf5642d573029d514e17a45d8af1f2cabb048b7ea82c8520cc07804517be60",
+      "sha256": "760748aced5966296e0dde97f98649ae8afb40c32671e06e3635355fb9464e48",
       "chars": 723
     },
     "entities/信息环.json": {
@@ -226,7 +226,7 @@
       "chars": 1827
     },
     "entities/信息环.md": {
-      "sha256": "acab92d4bb3485903239f927463cd97318cce7c1388b0d31d9ba241caa8eae7f",
+      "sha256": "df2a60c4b2f899fdeacc72b9b1d18e5cdbbe64552e3204ca78f9f81cd6699dbe",
       "chars": 935
     },
     "entities/修道院.json": {
@@ -234,23 +234,23 @@
       "chars": 1487
     },
     "entities/修道院.md": {
-      "sha256": "cf4c7118dc9958b03000c33997bb47fb9682857aebdd58d74d864610702a3185",
+      "sha256": "2e164e4b9a0f83c5adc2463cd14181ae4a246bfff3e9f5f129c7c1bae6d693da",
       "chars": 731
     },
     "entities/共鸣之仪.json": {
-      "sha256": "2ab0a40de29acc2c4905ad2342c8935acd7f0ab90df6037e08adb6570624c7ef",
-      "chars": 1987
+      "sha256": "c908d3ab85e4ea86eb145fc5b3a745530ae8e7e76d58dbf8afc3c6d017f77023",
+      "chars": 1894
     },
     "entities/共鸣之仪.md": {
-      "sha256": "a0169ab83b8b348702b706643f78765184ad439e23b0193426084cf0f89943b7",
-      "chars": 1092
+      "sha256": "867c8b8f5bd28cd6fd97acdc6f4fa83adc53c2d256b4047a42f2e107128b0940",
+      "chars": 975
     },
     "entities/共鸣服饰.json": {
       "sha256": "1b9035b9ab04d48680ea9764b3cd9280c34c954c32c0779941e5817aac5b2259",
       "chars": 1615
     },
     "entities/共鸣服饰.md": {
-      "sha256": "a4485687f5401c1a37c011fd5090dc9d1ce9138def91c3e5d91fdab14965cf43",
+      "sha256": "18afd097fa59c6d11d6d4d6cc9acb2cb877d30835f1e4cbbcee2a272a63f28fb",
       "chars": 861
     },
     "entities/半神.json": {
@@ -258,7 +258,7 @@
       "chars": 2414
     },
     "entities/半神.md": {
-      "sha256": "4ca6c05ad20d557c2d2f858fe2e8e8cef7d0dd4a2532d151edb0b220150a1692",
+      "sha256": "a66fe0cf70f6ecf0e94ee088aff40b8a9b70c2c0a7ef1ac9e8d4f2c746ecb1db",
       "chars": 1099
     },
     "entities/叹息之墙.json": {
@@ -266,7 +266,7 @@
       "chars": 1965
     },
     "entities/叹息之墙.md": {
-      "sha256": "13b1f6f50440b377abe0de5102aaee16a6ca566ae513fefc4a93c09089fcd5e8",
+      "sha256": "bd375e0c49c8b8cc01844af473fbfdcd930f70f493b4bba3cd01684db79709ee",
       "chars": 906
     },
     "entities/咖啡厅.json": {
@@ -274,7 +274,7 @@
       "chars": 11770
     },
     "entities/咖啡厅.md": {
-      "sha256": "b3d7d0097cb48bd5abf0dc27d99863f0527bd31e287bd9a3956e2b8712a4c6b8",
+      "sha256": "e81ed20fc7b757e599728c952e6a2c2b1fbe2620f8cefbcb7341c5d3dc78d80b",
       "chars": 6162
     },
     "entities/四大文明.json": {
@@ -282,7 +282,7 @@
       "chars": 1150
     },
     "entities/四大文明.md": {
-      "sha256": "e7b78d1f7b62170d6cf5b7f70c13f2054baa1f0c4ef1d49dae51a9e9607cb008",
+      "sha256": "ab3185ce15794b837b61338bbf1c27841603c57e414ebd6769efb243ad441dc2",
       "chars": 540
     },
     "entities/圣嘉尔教国.json": {
@@ -290,7 +290,7 @@
       "chars": 5549
     },
     "entities/圣嘉尔教国.md": {
-      "sha256": "debf191216030018070752ad2db70bdfb13e4df8fe02bd5e2f27d4b93c57e7fa",
+      "sha256": "c761f896ca5b3ceac0b49f9939d49fc54780077206c7175d07ce58bbec550c26",
       "chars": 2924
     },
     "entities/外城区.json": {
@@ -298,7 +298,7 @@
       "chars": 2086
     },
     "entities/外城区.md": {
-      "sha256": "945da19bf104bebdceb8eafafd8dad87d7fdd098f2ca6bf90bb72afd18225d33",
+      "sha256": "a9246f2fb3a91dcdfcf99df7883846e08970cd9ca3d1b4cc473dd20d7eea4f87",
       "chars": 1034
     },
     "entities/大教堂.json": {
@@ -306,7 +306,7 @@
       "chars": 1077
     },
     "entities/大教堂.md": {
-      "sha256": "c286a8b2fd3914c4d0c0dc6841d8b82ead6a2872d5f3386b3a6823c3b07e4591",
+      "sha256": "397bcf1d129ce71eaaf93874813d1c4ad57327445c75cd6798bb5835e706178a",
       "chars": 607
     },
     "entities/学院.json": {
@@ -314,7 +314,7 @@
       "chars": 2272
     },
     "entities/学院.md": {
-      "sha256": "e53630a54fd8a2323b4d57ff77173d9e3231f05d762ca114c7360377a0b9bdbc",
+      "sha256": "5312c03a96cb2c18560743ae4cbaaea063f4474d5ef859a7196703010a6f4b01",
       "chars": 1231
     },
     "entities/守护者协会.json": {
@@ -322,7 +322,7 @@
       "chars": 2736
     },
     "entities/守护者协会.md": {
-      "sha256": "230c88a3034521dd58d8aca9a3bdf40025c1abdac932032416855c99c515c418",
+      "sha256": "fb763e9b333860f711037b819f54e3f0474d73cf997565b4e6d56ec820b700bb",
       "chars": 1388
     },
     "entities/尸鬼废土.json": {
@@ -330,31 +330,31 @@
       "chars": 2598
     },
     "entities/尸鬼废土.md": {
-      "sha256": "1fe1548caf59af784b19d441090cec3cd6d329da040df057e43810daf0c4cf5d",
+      "sha256": "95cd25e4363ae7abfd0e1374982a465d0443dcf39960e257088b75f40ea45082",
       "chars": 1260
     },
     "entities/庭院.json": {
-      "sha256": "6ad9770cf3bf0441c7c04c81613b1aaee5fe9bb4cc7c0d2ff86880d6dc212a51",
-      "chars": 3734
+      "sha256": "4a7fd52a6c2899aecabb40ed0c53c9d9b056a3e11737cca33667fa6ebc2c3b9a",
+      "chars": 13610
     },
     "entities/庭院.md": {
-      "sha256": "b23e04aa621fb7ce4b955c3d5928bc9415b164da7a3bd297a508a4edf2b2cdce",
-      "chars": 1733
+      "sha256": "9515b92ab2287bd82756150a70d38cceab55a8531bfe2e94c17feb7d1b19b4c6",
+      "chars": 8038
     },
     "entities/庭院别馆.json": {
-      "sha256": "b4e78d4e20092a6c4c9bcb1b686b797af1bccf5ab5efb0b659a78123d88bb0a2",
-      "chars": 2453
+      "sha256": "f94ec48e3918dd7dcf3a41369afba7da67bb24e34ec831cea1e121aff2c7e025",
+      "chars": 2548
     },
     "entities/庭院别馆.md": {
-      "sha256": "11084683bf629d253ba8c1a0b32da85287bcccf40b550a52f2e54f927595536e",
-      "chars": 1224
+      "sha256": "b0d4a200c110189ce00c340c24eb87772ee1499f5cda68e454ef164c5374011e",
+      "chars": 1295
     },
     "entities/戈拉姆.json": {
       "sha256": "d708d28947561c695f1f610e332a110f60fed7bc288b5ac1cc357e40a60bd891",
       "chars": 1618
     },
     "entities/戈拉姆.md": {
-      "sha256": "8df8bf36dda73c0b3e27d00fca6581bd8ea537d28766b76cb344d5304dd0128d",
+      "sha256": "f0fcc7bad9bf15a9431f78ad19c270784490bc84418f7808309af9a126f363d1",
       "chars": 729
     },
     "entities/旧城区.json": {
@@ -362,7 +362,7 @@
       "chars": 2085
     },
     "entities/旧城区.md": {
-      "sha256": "14584ac10f56528277280c891f73395c2cbb65f833994b5e87666eaa30bfbe04",
+      "sha256": "c2af025d6a28067da96061499df7b3f6f53168bcc9ee41c683db565c882ea9aa",
       "chars": 1033
     },
     "entities/星神.json": {
@@ -370,7 +370,7 @@
       "chars": 2744
     },
     "entities/星神.md": {
-      "sha256": "072f54812d5f67ec39f7b79027eb78b6836339932e49489cec698cd5633719d6",
+      "sha256": "0a79ebd4625722e31c62b8d0bfceeb86469c1fb7aa1fbe736cb4fded754ee0c9",
       "chars": 1292
     },
     "entities/星神使徒.json": {
@@ -378,7 +378,7 @@
       "chars": 1480
     },
     "entities/星神使徒.md": {
-      "sha256": "d5e396fdd1e9fc11ec8db72828e204fbe7206bc32a7c734e329b6a4ef67af64d",
+      "sha256": "3540d406241cc40449e4aac16447d98ea7f747086e7a0bdeb7e6678bc939a327",
       "chars": 733
     },
     "entities/柱.json": {
@@ -386,7 +386,7 @@
       "chars": 1476
     },
     "entities/柱.md": {
-      "sha256": "27ea737a33f88f2f72d0c739742db53bf84dfd42389c993af26bbb05511f67c4",
+      "sha256": "8d6d88750383c33d8fa01247fda4e3b5eb5b8fc83cae2f7a417a5969525093e0",
       "chars": 725
     },
     "entities/标准套件.json": {
@@ -394,7 +394,7 @@
       "chars": 1401
     },
     "entities/标准套件.md": {
-      "sha256": "f3b33303fbf929961a5ca5366f1171538f73634f841a58ce5cd64a23645085c4",
+      "sha256": "9df35460a334a570f7685c77ef3c3002afbc91ba679062571662fec3f352cc68",
       "chars": 640
     },
     "entities/核心区.json": {
@@ -402,7 +402,7 @@
       "chars": 2279
     },
     "entities/核心区.md": {
-      "sha256": "186072a36c3d466144c27ebbe3fd4968baeb051963ccac497a2c876acce1feac",
+      "sha256": "aa08bc2a44c03a9971cffd6fe705410ff0eaac5458a477ef012d812922c994e1",
       "chars": 1085
     },
     "entities/海拉幸存者.json": {
@@ -410,7 +410,7 @@
       "chars": 3913
     },
     "entities/海拉幸存者.md": {
-      "sha256": "6b635f04554d3ffe6620f7cd89258563050e6c00654a95aefb15aef6b055b855",
+      "sha256": "b631dfa11d8029228e85577f44e913f6066fb4d6f8b2830969128f1458abe14c",
       "chars": 1745
     },
     "entities/瓦什提.json": {
@@ -418,7 +418,7 @@
       "chars": 1705
     },
     "entities/瓦什提.md": {
-      "sha256": "1587011dccc452321d9911076ba813974d2db1a0c7f13fcc39b7170a2e3d36dc",
+      "sha256": "22d482a700c4e8c2ffa389797353d02c7489ae7d1d0714cb39041ff65bfd5eaf",
       "chars": 816
     },
     "entities/瓦基乍托.json": {
@@ -426,7 +426,7 @@
       "chars": 2085
     },
     "entities/瓦基乍托.md": {
-      "sha256": "529b4afbc6c85faf2cf86455feba95af53b9940e9679b06eddd4bce2a722edfb",
+      "sha256": "c050f77510839c5f92818f7b7a5ff9b1464da206cdd27f94a7faa50b6f241070",
       "chars": 1051
     },
     "entities/白圣女.json": {
@@ -434,7 +434,7 @@
       "chars": 2102
     },
     "entities/白圣女.md": {
-      "sha256": "50621092707bec9512a106d8b01b42e03a1290a52e6a838714ff08509b404295",
+      "sha256": "b645f626ad9248baa77ab79f572f3a11440047b5310a8bec774167f961f45c8a",
       "chars": 1056
     },
     "entities/真理协律.json": {
@@ -442,7 +442,7 @@
       "chars": 1340
     },
     "entities/真理协律.md": {
-      "sha256": "7e1f73f9ef9dbe73db192ea29bf8fe1feea7d76ab79aeda29f2e11cfcf93041d",
+      "sha256": "eaee6cda1b6fc509fa14db798f1b01abc60df9f5715608cea42ed5c5519dc478",
       "chars": 590
     },
     "entities/神力.json": {
@@ -450,7 +450,7 @@
       "chars": 3211
     },
     "entities/神力.md": {
-      "sha256": "5683d28483fa978fa17c2c4920e50f00d549221cd13b245ccb55ffbdb81712ca",
+      "sha256": "2f20bf492a5b43d320ed43d94e725206285f8ec61ab33d57a12f024a0ac9240f",
       "chars": 1626
     },
     "entities/神力萃取之地.json": {
@@ -458,7 +458,7 @@
       "chars": 1599
     },
     "entities/神力萃取之地.md": {
-      "sha256": "056b73dfc0446866c2e0fbf8de24d69a9d79dc4ce89a32e0a99ed8294bf5b24f",
+      "sha256": "214411b94ad6a15f16a39a3ee2cb09ae677529056d70bdec0097ca525d007df7",
       "chars": 843
     },
     "entities/神匠工会.json": {
@@ -466,7 +466,7 @@
       "chars": 2431
     },
     "entities/神匠工会.md": {
-      "sha256": "4e746cae533e151fe86d89a0fc352c22d5a1a8c0e80a4411bbdf5a056d421dc9",
+      "sha256": "7aeac7bfc39f55a5964fc210974ac0ca953618ecefd31d4adb1e91e5d318b59a",
       "chars": 1239
     },
     "entities/祭司与圣女.json": {
@@ -474,7 +474,7 @@
       "chars": 1606
     },
     "entities/祭司与圣女.md": {
-      "sha256": "e45db77c6ad6c1690e42a7007c9727ee4b83627116c9553d1191d77043f81a63",
+      "sha256": "9724ce528c6bfec1a988c5a288da197309d1a8ad567e5b1bea495bdf6b1362d3",
       "chars": 850
     },
     "entities/科研组.json": {
@@ -482,23 +482,23 @@
       "chars": 3238
     },
     "entities/科研组.md": {
-      "sha256": "2c96f52be44dd842a2cc8cee98659dc2718aa6afe9b6720da8d5a13638af6792",
+      "sha256": "1987b6b3dd7aa401fab0590960e6d7e585e764ff78a7ff605269bef690ba285d",
       "chars": 1423
     },
     "entities/艾尔伯德工房都市.json": {
-      "sha256": "975a94b997c4b43a0cadc355a77a9a679e4a9ca961fc0c814a4e2f3c8af7c64a",
-      "chars": 4625
+      "sha256": "e6fdaefe6eb57d9c5d82e230d9a45e99e4ab6734de439df1d6b5725f11d28155",
+      "chars": 4638
     },
     "entities/艾尔伯德工房都市.md": {
-      "sha256": "02cf725438100190a2b35cb16951ff80e5123eb1ec12be573051b344e40c7e4d",
-      "chars": 2084
+      "sha256": "369774884d7eb546a504007a165c033ad8cdb6d4788e2d53d7b251da79b85037",
+      "chars": 2097
     },
     "entities/艾尔伯德自由都市.json": {
       "sha256": "5dda60caa0b0f3cf8402819191953c492d60acb2c15fd3eadfb60f5a6952f68d",
       "chars": 4134
     },
     "entities/艾尔伯德自由都市.md": {
-      "sha256": "4fa0d40b45e4523a76c1700a3ca8e15ad5781fda8f3ea892c10d8a720a82a755",
+      "sha256": "9eda43878c5545386ad57a6b336fef6c1b6e363c7a5d6565ba911c4e83442bb7",
       "chars": 2169
     },
     "entities/艾拉世界.json": {
@@ -506,7 +506,7 @@
       "chars": 6022
     },
     "entities/艾拉世界.md": {
-      "sha256": "8effda54afa5a9d46288f2f1e3a7d407348e4240e56c0f495639d0476fe9addf",
+      "sha256": "c76d0a16a171ca5b6bfb3f34a4132a37149d89d6d57dab209badbd497e212b3b",
       "chars": 2512
     },
     "entities/艾萨共和国.json": {
@@ -514,7 +514,7 @@
       "chars": 5350
     },
     "entities/艾萨共和国.md": {
-      "sha256": "4b7812270837673e35837088c4ba707184c65000a2ec908802e611743a6afb0d",
+      "sha256": "5591831692ba96257d745cb993cfebad177959acdbdb6be2a5b796d42e9e957e",
       "chars": 2572
     },
     "entities/英博透镜模组.json": {
@@ -522,7 +522,7 @@
       "chars": 2268
     },
     "entities/英博透镜模组.md": {
-      "sha256": "52c6ed28b6142c568b85a6a2621df3066327e6cc121d4fb040a32f83be7a6db1",
+      "sha256": "3eb6efe3add13ebb50bb7072729bc976aeff673d2dc0079aba2c4f90d2cdad96",
       "chars": 1237
     },
     "entities/赫尔帝国.json": {
@@ -530,39 +530,39 @@
       "chars": 9312
     },
     "entities/赫尔帝国.md": {
-      "sha256": "fb9ef69f29c9f36677e3e8f7cf7e3697107fe0ef390e2acec398a6176deda080",
+      "sha256": "f797013ceb02955ed8195c1b81a4e6529aa51e37e5c6f0b708dfcc56f3b76991",
       "chars": 4733
     },
     "entities/通风效应.json": {
-      "sha256": "61be456a3c3e6ddcaa43fc7a56c798cbbff29130efd7c71b84bb55631fee4944",
-      "chars": 1772
+      "sha256": "121a0b7c734b5e579b24a960addb80592fa1144b1f7b9cc0cd20a8af86ae71eb",
+      "chars": 1876
     },
     "entities/通风效应.md": {
-      "sha256": "724b0f55af878b113c21d475249c2c9ce967d115d3164b98f5120643af6c205c",
-      "chars": 1018
+      "sha256": "4818369610d6612b298baf43951bc98ae4cb0ebd97d57cc11ec1a5ee5c42edf3",
+      "chars": 1098
     },
     "entities/阿芙达.json": {
       "sha256": "b502a237f1e717f161470791cac4ce539351bdd45564e90a944258981096f65b",
       "chars": 2015
     },
     "entities/阿芙达.md": {
-      "sha256": "721bd850f9d0b033a428f26d780a8de0f0d1617a36e4eba5498e99302061cc95",
+      "sha256": "8a84b4c0e34743378bb1b0c575a5b2925ccfbbe21b130e8cdb3d3d0c133531ba",
       "chars": 990
     },
     "entities/静默的日常.json": {
-      "sha256": "e6a25d68d07261a71a35420461553f0155e6d2e62a20d361427cc7c55130b2f4",
-      "chars": 1615
+      "sha256": "8e8fe0c0249daf572f23648c2e4e70317c9cdb952fa944b533955c615a7c78ab",
+      "chars": 1642
     },
     "entities/静默的日常.md": {
-      "sha256": "8758ea0c169d09979ba223f6853a1e698dda2a2611ecab0f85dbf95c9ebe0d1a",
-      "chars": 858
+      "sha256": "41476120fe579e609d51abe8d5dd4bc9f9b2b1b21ff1349336ea26575b64e9a9",
+      "chars": 861
     },
     "entities/高位面.json": {
       "sha256": "1cca1029c2c9b92f28261a8419553050545c2b2915639e54598c80f99c3ec319",
       "chars": 2674
     },
     "entities/高位面.md": {
-      "sha256": "3e4438f9c9e5cccece964c6d14e9b141a66354d920e958f8f699eec6c3b670a4",
+      "sha256": "6231ab0bc7ece8bfcc9130f675c6aaabd1b1d5f5f412887b4dec42e1989b2b9e",
       "chars": 1233
     },
     "entities/黑水晶.json": {
@@ -570,7 +570,7 @@
       "chars": 1784
     },
     "entities/黑水晶.md": {
-      "sha256": "2641dfe6d1820bdf707070cbb9b9c4be031e61df1d06cc9c9894962dc854f829",
+      "sha256": "5c3a97ad84ea3b4956d8d30f01a21c3b51ca4c878779e6ad9c1d9751b7c9457e",
       "chars": 895
     },
     "entities/佐拉雅.json": {
@@ -578,7 +578,7 @@
       "chars": 4530
     },
     "entities/佐拉雅.md": {
-      "sha256": "96f6619602b820362a18535faf05017e96b008aac84401c6c46dadbeffc070c2",
+      "sha256": "19a8705a7ea8a691c5360912a097b361b01fb91ee903d3a349b23a1b29d57f83",
       "chars": 1969
     },
     "entities/克罗.json": {
@@ -586,7 +586,7 @@
       "chars": 3595
     },
     "entities/克罗.md": {
-      "sha256": "239315f93d9ef4d7f939b97709634f1602021e21c2e5db2f73d1a4a7172eb8e4",
+      "sha256": "cb230ee459b5e7dab27adf27d4472e75019d82264d4488ca9f51ec9a32c63e0f",
       "chars": 1500
     },
     "entities/凯瑟琳.json": {
@@ -594,7 +594,7 @@
       "chars": 16822
     },
     "entities/凯瑟琳.md": {
-      "sha256": "545bd16a558801f9a00f0b66a698eec3043d75634df808e5462ef5d08caf2d67",
+      "sha256": "11a81ce4341415d0e46969e89440bfa2eac7707179ead6418b67adb8f980d1ae",
       "chars": 6457
     },
     "entities/夏洛特.json": {
@@ -602,7 +602,7 @@
       "chars": 2197
     },
     "entities/夏洛特.md": {
-      "sha256": "e1f4f80381f38ebd9a75f9c6e4edc2b0e7562fdb4ee72da15dbbf348a9b6983f",
+      "sha256": "4593f0248769fb792c04bb41f7bbc1999f402127f020e6f1e9e0390cfcf78b7f",
       "chars": 994
     },
     "entities/奈菲莉亚.json": {
@@ -610,7 +610,7 @@
       "chars": 3207
     },
     "entities/奈菲莉亚.md": {
-      "sha256": "e097404ff2e44a53730f5941ae97f3ed3d111c7c570f7882211c4d131a5d1f84",
+      "sha256": "d8c29138e0eb42baab445c99b0a2437b4943e805c182c2643facc04ca7b2743b",
       "chars": 1518
     },
     "entities/学院生.json": {
@@ -618,7 +618,7 @@
       "chars": 1069
     },
     "entities/学院生.md": {
-      "sha256": "38e7ddcbf897a5d5485d3e74f829239ea01fd99f98a0bf6c5d01df1aa26f1c1e",
+      "sha256": "f1c85e98e783b8d45fba837ae508fa070e560f807eb1346539b3c814080860dd",
       "chars": 588
     },
     "entities/安娜.json": {
@@ -626,7 +626,7 @@
       "chars": 4077
     },
     "entities/安娜.md": {
-      "sha256": "824993499df60b34b5f5a30f75616613e78eab8d63294fbd2d31a0e21ffe3b58",
+      "sha256": "e16a4b9413eb7820050a7cd98d0768442c376053a186b78e1f3eb72a492f187b",
       "chars": 1812
     },
     "entities/尸鬼.json": {
@@ -634,7 +634,7 @@
       "chars": 1926
     },
     "entities/尸鬼.md": {
-      "sha256": "348dfea7b0253484835bfd3e3c4054a394f331ad01f1908b0e378151c3ea97eb",
+      "sha256": "3d763690fe3c7e6ee431fad533fccb4c296543539754931626a446fd9c1d7145",
       "chars": 1011
     },
     "entities/希尔.json": {
@@ -642,23 +642,23 @@
       "chars": 10305
     },
     "entities/希尔.md": {
-      "sha256": "7013cf3f51d63729b3d96be6ba196538922c436dbb5e6f8580c29dfe828c492e",
+      "sha256": "607e216640d2cd1971602517e9e1030942f37b3d73467986b2ee8d71ffaac602",
       "chars": 4012
     },
     "entities/无名少女.json": {
-      "sha256": "4d1569e84565562e7db4a6619d58fcc20017c95a0507df83051024ca9e1d953e",
-      "chars": 6441
+      "sha256": "accb473f77cda618b2f4f49afd1918a61d818353ae318dadc39d484f53b72e4a",
+      "chars": 6763
     },
     "entities/无名少女.md": {
-      "sha256": "83b33d499c4bc95354daf42e56e1f2756134df0cd6ebc1bc80b5a0cf4f0adb88",
-      "chars": 2801
+      "sha256": "801e8209549863670c1682c5fafe00417644257d412866d16f65313749d9a3a5",
+      "chars": 3101
     },
     "entities/无名少女A.json": {
       "sha256": "7a30992b6ecb90f4c339b8b48b11ad0ec862499b04cbe55d65ce436566d12a93",
       "chars": 2194
     },
     "entities/无名少女A.md": {
-      "sha256": "88fb5b186d535c801818bf5ab3f4a0ffae9803970b1a2a8d389cad75a847586a",
+      "sha256": "c0f51d69a6ffd4ac0d80742179453a56fb40482b77ebeae5ed75b2f374582955",
       "chars": 1096
     },
     "entities/无名少女B.json": {
@@ -666,7 +666,7 @@
       "chars": 2037
     },
     "entities/无名少女B.md": {
-      "sha256": "b7de787cb21d4c541be69f7cd285565546dfd3c75740c0ad4783cde3980698be",
+      "sha256": "54751b2d887332cd2e656c6d29b74be61bdf6d27d38bffe5a00808ab9ef1551c",
       "chars": 1081
     },
     "entities/无名少女C.json": {
@@ -674,7 +674,7 @@
       "chars": 1770
     },
     "entities/无名少女C.md": {
-      "sha256": "059a790c945e6f452f1e3adb85b31dc962170f0c919080a5a463b0419e3aff64",
+      "sha256": "38ebc41ef44bcbde97877ce400d0643ad69a9f95cc7f522fade2dbb298e1897e",
       "chars": 956
     },
     "entities/无名少女D.json": {
@@ -682,7 +682,7 @@
       "chars": 1814
     },
     "entities/无名少女D.md": {
-      "sha256": "fd1dc01fb759540e1b37015a9ba14ebaa113e846879d7f024078e7e4925f04af",
+      "sha256": "77256f4d397d7aeaa545b12cf3f29a532321b0bee672f5005935da8c322e5b4a",
       "chars": 1000
     },
     "entities/无名少女E.json": {
@@ -690,7 +690,7 @@
       "chars": 1765
     },
     "entities/无名少女E.md": {
-      "sha256": "b24a2bea456d073e54f610ffb819b461e8671e86cc103d356c402c85a48a95ea",
+      "sha256": "1dffda9327dfe707d9c7c8dcd59d8892c4a82844cd66adaf688496a08938f6de",
       "chars": 951
     },
     "entities/无名少女F.json": {
@@ -698,7 +698,7 @@
       "chars": 2034
     },
     "entities/无名少女F.md": {
-      "sha256": "8bafd0ddb443fe7bf8a8d4e8cf84a79fbc78f2a53e7ec86a596a04a8890af907",
+      "sha256": "7e30d193baf5ce6d47729d5cb39107dd964f832bfa77348766bd75090c57fa78",
       "chars": 1078
     },
     "entities/无名少女G.json": {
@@ -706,7 +706,7 @@
       "chars": 1795
     },
     "entities/无名少女G.md": {
-      "sha256": "a5453ffe02aee39c590bc2d2592087156fc89ad10fb64faf96d31e6fa122340d",
+      "sha256": "9a6e95e56406e1f5d15bdc13969656dccff29f470589ce47305d8e53f7809e6e",
       "chars": 981
     },
     "entities/无名少女H.json": {
@@ -714,7 +714,7 @@
       "chars": 1986
     },
     "entities/无名少女H.md": {
-      "sha256": "0ddd0a248109b56cfe9de53d2e9cdca7016eef2bf8f39f4497e204c06565942a",
+      "sha256": "eb0a9ea84897cefe835d7d7719580d083fdd767e81bc1ba62ea3e3a618507272",
       "chars": 1030
     },
     "entities/无名少女I.json": {
@@ -722,7 +722,7 @@
       "chars": 2021
     },
     "entities/无名少女I.md": {
-      "sha256": "340a46b9b4b0178958be6acc1b6ca23469db2fac0cfc5caf8c9c653627d57e07",
+      "sha256": "b2b43207ce13c143ec6b4ff8ab3580b30c855ebc6760975c5bc366b329ecd739",
       "chars": 1065
     },
     "entities/无名少女J.json": {
@@ -730,7 +730,7 @@
       "chars": 2020
     },
     "entities/无名少女J.md": {
-      "sha256": "0417ccea1d929cf6015baafb5434ee17cc31beadd499e4a90a2fbc5ce6959e5d",
+      "sha256": "a4c87b7ca9de31950038209fef1186990b6c28f0ad931859e8fd38f981f6c4ab",
       "chars": 1064
     },
     "entities/无名少女K.json": {
@@ -738,7 +738,7 @@
       "chars": 2079
     },
     "entities/无名少女K.md": {
-      "sha256": "366c43875ef2849326863118edeea2deca3091f40da26b0ed9e07f40a2d7f686",
+      "sha256": "2af0b838b4bc5db0cfa02b2dc373ccf5e87878acbf8ceb30e19e2d68e0ac1a73",
       "chars": 1123
     },
     "entities/无名少女L.json": {
@@ -746,7 +746,7 @@
       "chars": 2454
     },
     "entities/无名少女L.md": {
-      "sha256": "c715a64988ec7f5111bc4bc49c4e877548f09c99bb29e3e4d9c9e3788a008b1d",
+      "sha256": "2bdd9539fc32ae9b878941230ebcdb4c18138152a93c439617b48ab28b8317a1",
       "chars": 1218
     },
     "entities/无名少女M.json": {
@@ -754,7 +754,7 @@
       "chars": 1951
     },
     "entities/无名少女M.md": {
-      "sha256": "45f8af6b62de32619ff6cf5ee4e8855c656476da7655383f58a8b535cf03a2da",
+      "sha256": "f15e9b6ac84a4ee9591486715b7ea6e46aa9236e8da7ecb7f601142ca78f3a63",
       "chars": 995
     },
     "entities/无名少女N.json": {
@@ -762,7 +762,7 @@
       "chars": 1944
     },
     "entities/无名少女N.md": {
-      "sha256": "87cbb7201b2c471a835514245b14b1ef1cd1a716c6256a8193f93265e258dfe3",
+      "sha256": "424cf28bb2c9a95f7569f51069805b626b33fcf65a0d965b8d7ba9e723e165fd",
       "chars": 988
     },
     "entities/无名少女O.json": {
@@ -770,7 +770,7 @@
       "chars": 1994
     },
     "entities/无名少女O.md": {
-      "sha256": "aa07380d470b3e5330b79215c85e616cb4ce0d6c2f70a2dddb78c9ef7d423365",
+      "sha256": "e3e3eecf809a28d13f81fbacc84600c1f4ea0f0a8497b6a2f3cf240e01a8832e",
       "chars": 1038
     },
     "entities/格雷特.json": {
@@ -778,7 +778,7 @@
       "chars": 2313
     },
     "entities/格雷特.md": {
-      "sha256": "c28c15998511bb71d4c0e92f637a3d9e49ac6eca81365815d486e85effe41a71",
+      "sha256": "12ef209b779ea29416f49529209cc5f069b4c19f22198988a1ef77f162bdba39",
       "chars": 1084
     },
     "entities/海拉复辟事件.json": {
@@ -786,7 +786,7 @@
       "chars": 2520
     },
     "entities/海拉复辟事件.md": {
-      "sha256": "ddf10abcf1291d7e659e68fada00c39f6f1a470d3244cf3ae190e8e62b1cb6d7",
+      "sha256": "c1cb967103ea6887bde674421510c97053f0adf7971efc00468723efccffb04f",
       "chars": 1206
     },
     "entities/索菲.json": {
@@ -794,7 +794,7 @@
       "chars": 6746
     },
     "entities/索菲.md": {
-      "sha256": "d568588ddf370de69c991665019cefd9ca9653882192ddd189b2ebf317201a26",
+      "sha256": "ce4b8a778c2a0e731c8301d740f5114bda92197a71f0db62eafbc51ae99885e7",
       "chars": 2523
     },
     "entities/艾琳娜.json": {
@@ -802,7 +802,7 @@
       "chars": 6695
     },
     "entities/艾琳娜.md": {
-      "sha256": "bfb45187c4d3f3d7024abcb018d618f17ad9ee2f7d81208ca49c23fcd9d49c68",
+      "sha256": "16b49ada0ae573316c59ef9d14b1c8875b0626dc2fd2193310733b6efe5b5fe9",
       "chars": 2792
     },
     "entities/艾莉丝.json": {
@@ -810,7 +810,7 @@
       "chars": 1864
     },
     "entities/艾莉丝.md": {
-      "sha256": "472a695b0df159a8a401c89a1a4ddecf1ddfb87e8473512fbcb2a558cb150fd1",
+      "sha256": "926f19a7e3ae188b8c56a7d2389397bfaa38b838181ccdae4e5136a79fdfc893",
       "chars": 935
     },
     "entities/艾莎维拉.json": {
@@ -818,7 +818,7 @@
       "chars": 2490
     },
     "entities/艾莎维拉.md": {
-      "sha256": "1f07e268f214dc519cd0651b640a42fe2b26f2a51b3832216bca2218cb576fbf",
+      "sha256": "a091b86d4ff3941b4d91b60132329eeca718df33ea50ad24811cb12b54887388",
       "chars": 1235
     },
     "entities/诺亚使徒众.json": {
@@ -826,7 +826,7 @@
       "chars": 1983
     },
     "entities/诺亚使徒众.md": {
-      "sha256": "3bf80ed74312e25f57f292933e45bb4c930715cb89a2eaa1b0eaed566f0baa19",
+      "sha256": "01a27c25abaf980cabdfcbc4fae4c2250d794ba2a655e83bbd786d9f5ec756d4",
       "chars": 1029
     },
     "entities/赫米.json": {
@@ -834,7 +834,7 @@
       "chars": 1497
     },
     "entities/赫米.md": {
-      "sha256": "cbac1c261b56b8317762df5b18fa0ac846dcc016641aa0d3e1c035ab59fcc5ae",
+      "sha256": "49b688a881219d89d2174854b2e320a242e6cb8d46159556456ecac66fd36dbe",
       "chars": 822
     },
     "entities/辛德蕾.json": {
@@ -842,7 +842,7 @@
       "chars": 4267
     },
     "entities/辛德蕾.md": {
-      "sha256": "483cee93235432da5af4caaba243f50c6c77ddcc86a75b1bb9d6ea767ed2c747",
+      "sha256": "1eb81ff9f3d51f2e42f9695c901e3348631a5c4cd3bfe114b1fcf6c3f2a9d0ee",
       "chars": 1862
     },
     "entities/阿斯克特拉玛.json": {
@@ -850,7 +850,7 @@
       "chars": 5001
     },
     "entities/阿斯克特拉玛.md": {
-      "sha256": "a4d9a64b98389262b98ef45f610f7397361fdb86cd01f8049d06a525c23a7cbc",
+      "sha256": "c9c8060fde9e438b369bacace268cb9d823061d1fe77b25b173b2305b40112f2",
       "chars": 1936
     },
     "entities/雷诺.json": {
@@ -858,7 +858,7 @@
       "chars": 2282
     },
     "entities/雷诺.md": {
-      "sha256": "7d94d65a736858866c528aaf5c6bcb38f845366d843ad8e9874203cddb59bbe5",
+      "sha256": "3d8c8f41cf70f1542ffc9d92b8112eb3dfdb1a281a377638287479c56be95949",
       "chars": 961
     },
     "entities/半触手族.json": {
@@ -866,7 +866,7 @@
       "chars": 2196
     },
     "entities/半触手族.md": {
-      "sha256": "d749b8be8a6278bc8f464b077fbc0a446be7eb1a1996ea76894baa398817f030",
+      "sha256": "420b6fd043bc8b5d89db7020b1ec21c7d4fdf1a373028709d91128c512e2027f",
       "chars": 1137
     },
     "entities/机械体.json": {
@@ -874,7 +874,7 @@
       "chars": 1504
     },
     "entities/机械体.md": {
-      "sha256": "40fceff04d7c317686a2eb24df3dcbb9e69d508a7156d4474c44fe3992aad60d",
+      "sha256": "c243c408a0fef60aa173aeb156dbeeca0d0bb3600d5f373b8d69663c9d723f65",
       "chars": 729
     },
     "entities/触手族.json": {
@@ -882,7 +882,7 @@
       "chars": 2650
     },
     "entities/触手族.md": {
-      "sha256": "c802f0bd6ef586e10de00ee549da2f91a1fc8b7b1dc38f1434c0a5e5b5527675",
+      "sha256": "4114387c16d2e0219f36e03f4c7fe92fd2c292292a752f7f940b4db7a8cebe53",
       "chars": 1178
     },
     "entities/长耳族.json": {
@@ -890,7 +890,7 @@
       "chars": 5658
     },
     "entities/长耳族.md": {
-      "sha256": "d7c5694801523167aca78e67a121194b79539d13ab9291c8107ab7f75d6bdc74",
+      "sha256": "fd1b6e07ad1a7020c09736ff856809c0f899f494a8921844be2005fdc227a296",
       "chars": 2423
     },
     "entities/伊罗之家.json": {
@@ -898,7 +898,7 @@
       "chars": 7761
     },
     "entities/伊罗之家.md": {
-      "sha256": "3a7e98a015916569e5bf1ae3e94f04c5019aa6c12c3d7da5bba950690c7f3dbc",
+      "sha256": "6d140370df27d5bea6d7a79727e9933f4b221778625e157594453b4915914e6f",
       "chars": 3498
     },
     "entities/菲尔.json": {
@@ -906,7 +906,7 @@
       "chars": 6120
     },
     "entities/菲尔.md": {
-      "sha256": "fef35ce24960dd042f284dd80be9f51ecd2c51a5488ba8d2b303461f461aec0c",
+      "sha256": "65454c1b54ca10dcbb723534d4a7bc9dfec5c97162d6edcf6e7a289040003569",
       "chars": 2421
     },
     "entities/阿托兰.json": {
@@ -914,7 +914,7 @@
       "chars": 4902
     },
     "entities/阿托兰.md": {
-      "sha256": "79b927f642a85fbea5fb372265b8afb8eabbf073b9547af9ea9e6b5286a7fe26",
+      "sha256": "106ed275315de8243e5ed8aeda6970831f5f2111ab6f71701eb095f9a5649e53",
       "chars": 2074
     },
     "entities/海拉事件.json": {
@@ -922,7 +922,7 @@
       "chars": 1839
     },
     "entities/海拉事件.md": {
-      "sha256": "2f83ca29bdd95b50c848bfc3ec931091b2175043449688837e324b062c3e3712",
+      "sha256": "065728acd1f8622316f461bfe4c248d7e984e45519763b47eb31a1d6ee0a7a4b",
       "chars": 1061
     },
     "entities/帝国事件.json": {
@@ -930,7 +930,7 @@
       "chars": 2140
     },
     "entities/帝国事件.md": {
-      "sha256": "f4c8fc26bc83d123e0d3df1a28b6a9525b207837882f0b6802f07a3802a73c93",
+      "sha256": "dd38cb0a2b696c60632cdeb7b279eeeef1fef1ef99e0af02ce67c82907d0c6e3",
       "chars": 1223
     },
     "entities/瓦利诺事件.json": {
@@ -938,7 +938,7 @@
       "chars": 1919
     },
     "entities/瓦利诺事件.md": {
-      "sha256": "a4084ff31c0fded12f45a1603be4e88e5188d7978342903aa8fea8a7d65e86d0",
+      "sha256": "c78e4cc3a44b23b3632ab2ca32aed15bba1b706f15cc3fce3c8b1280459caeea",
       "chars": 999
     },
     "entities/圣嘉尔事件.json": {
@@ -946,7 +946,7 @@
       "chars": 1115
     },
     "entities/圣嘉尔事件.md": {
-      "sha256": "72ea62b47ed73a2ac804057687ed5dfcb72a62ebecde300673b35ec0155c5b18",
+      "sha256": "ec2b9acc9ae8a479ffadce38efd5611eb363c94d5979f76a1626d9a71c101faa",
       "chars": 617
     },
     "entities/星神之塔事件.json": {
@@ -954,7 +954,7 @@
       "chars": 2921
     },
     "entities/星神之塔事件.md": {
-      "sha256": "f52768a76e8dc3efa87585589e268edc48affcb137c52c1cb715391c3b2cfc79",
+      "sha256": "0f7db9dd5d185d396a477ca72f8ecbd4b42e30060239273eeb41685794bacb79",
       "chars": 1582
     },
     "entities/罗威.json": {
@@ -962,7 +962,7 @@
       "chars": 1946
     },
     "entities/罗威.md": {
-      "sha256": "cf51f0c3672fb22918ceef6c362062a4efdcc4ff19a39eed3a511fd2ceefda7e",
+      "sha256": "397b4c254c006f20fb8b73d1759544fb5f3bcd7c68a7f5e35e021bda4905c500",
       "chars": 910
     },
     "entities/辛西娅.json": {
@@ -970,7 +970,7 @@
       "chars": 4819
     },
     "entities/辛西娅.md": {
-      "sha256": "fba8da8e9872930087ed44b55c70e9889a59b1f26180c5d1abcf45e01c8597bc",
+      "sha256": "a4da97fa9d6fa1f2067bfe6a679c1b217ecd340cdd1d7b27413dbea5ac319472",
       "chars": 2230
     },
     "entities/希塔恩.json": {
@@ -978,7 +978,7 @@
       "chars": 3060
     },
     "entities/希塔恩.md": {
-      "sha256": "6535f28f28b5315106c58f67c61f538a84453563522c5d2ba460f00d97b2e9af",
+      "sha256": "0f437d7c425fd4b262495cdbf022534f6f2fb171a2774ed0f659b722d3350061",
       "chars": 1342
     },
     "entities/普利萨斯王.json": {
@@ -986,7 +986,7 @@
       "chars": 2668
     },
     "entities/普利萨斯王.md": {
-      "sha256": "75133865a3234776e2d4b0d32391508211542a3d01e692cc5b54bd40bf62c861",
+      "sha256": "02752769c9c59224fa3d42ca350ad2710601282e6394550658f82c626bd41878",
       "chars": 1276
     },
     "entities/拉提斯.json": {
@@ -994,7 +994,7 @@
       "chars": 3468
     },
     "entities/拉提斯.md": {
-      "sha256": "c112fdd6d66a09ee1de7ad56a5ead5be3de90c965730ad1ef04617b66dd312d3",
+      "sha256": "f45440c5067d1517f11dd675848a05ed1e475b9ec757d4f2adb88d9c7267820b",
       "chars": 1480
     },
     "entities/林迪雅.json": {
@@ -1002,7 +1002,7 @@
       "chars": 3054
     },
     "entities/林迪雅.md": {
-      "sha256": "bbbb87e40a31a6841390f11418d9c109b6216c7b849c9a1efc520f980fa0fbab",
+      "sha256": "27a33139c4014bd1d69cb79c1ef8bdf4749eddcf64f0eace1c103310373f77cd",
       "chars": 1352
     },
     "entities/奥蕾拉.json": {
@@ -1010,7 +1010,7 @@
       "chars": 1482
     },
     "entities/奥蕾拉.md": {
-      "sha256": "f7ec9de06e48b6cbd9ae033124561d4f543ab773d7499ebe54dc1ba3b3f915fd",
+      "sha256": "93177701d6c5e9790eb8ac61c9885c1d6a7b7cb71855808ce663e58e818a2fc3",
       "chars": 679
     },
     "entities/希尔派.json": {
@@ -1018,7 +1018,7 @@
       "chars": 3553
     },
     "entities/希尔派.md": {
-      "sha256": "4b2913d8f0e6411eaaaf25e64a216f59daa371bcbbcd33e039b1a9cde29926e4",
+      "sha256": "73ad0b8cdc3e1633c7901316f86519372a8102673e7f0809a4a62b7fd0e1056c",
       "chars": 1546
     },
     "entities/伊尔教.json": {
@@ -1026,7 +1026,7 @@
       "chars": 1248
     },
     "entities/伊尔教.md": {
-      "sha256": "7b83fbb40d12a7bd4b974fdc8932afbe4df5d63cc7289fb994d9d6acd02cd36d",
+      "sha256": "80c3a8fc82892996799e5aa1ccd8b1a4bb1f2e3692d84f95b939c34df2307faa",
       "chars": 645
     },
     "entities/海拉组织.json": {
@@ -1034,7 +1034,7 @@
       "chars": 3120
     },
     "entities/海拉组织.md": {
-      "sha256": "a826d57fea6b7eedd0bde70175139b8f311b71b25647750bcb192881a61ab8ac",
+      "sha256": "529cb27bcc9008cd6b90663779787e66b93f5493e0e62be58ec663ee829184b3",
       "chars": 1442
     },
     "entities/逆光旅团.json": {
@@ -1042,7 +1042,7 @@
       "chars": 1346
     },
     "entities/逆光旅团.md": {
-      "sha256": "28325c84965cd222dd71c3c13d96b0a294db17cbe96048b59ede06a21ec86b5c",
+      "sha256": "c0e3f3b162c0ad60572f6f0f5bf246f10cb758fe8e89ca181652eef977003e4f",
       "chars": 714
     },
     "entities/瓦利诺.json": {
@@ -1050,7 +1050,7 @@
       "chars": 6011
     },
     "entities/瓦利诺.md": {
-      "sha256": "46cf1fa97d3d2698fc3689c827418bbf3e127eedc24c7af0099d48f70c7748d1",
+      "sha256": "d70c4da757baa66809adbcf46b5a6fe9ba35fb68e461d2738543ca3dcd168b70",
       "chars": 3140
     },
     "entities/艾拉派.json": {
@@ -1058,7 +1058,7 @@
       "chars": 1947
     },
     "entities/艾拉派.md": {
-      "sha256": "ba635e4267437e35c57e7e842d048053a602cc8edb9ad8ab4464816544b22654",
+      "sha256": "1fb51b1768abda8f0b274f043ac6538cb6dd7de5e39864a5cd74a22506d18bc0",
       "chars": 806
     },
     "entities/中立派.json": {
@@ -1066,7 +1066,7 @@
       "chars": 1285
     },
     "entities/中立派.md": {
-      "sha256": "ae171c658030bbf511090b9b48f0dbaaa0254b77e2e1ab39128dc6784b922c5c",
+      "sha256": "5e8a5beb6a098690af8c8e52b1bd70674b6177ed4e0b96898d1b0679dcb6b4cb",
       "chars": 553
     },
     "entities/艾萨克.json": {
@@ -1074,7 +1074,7 @@
       "chars": 2602
     },
     "entities/艾萨克.md": {
-      "sha256": "dc0adf6529955c2f9ede293de39c58f25c90b19998ec1fd928554d8c4ee97285",
+      "sha256": "6dfdf72f1badfe4190f1cee53091ff27fe55f83bbb51192ac10dbe341270376f",
       "chars": 1188
     },
     "entities/希尔造物.json": {
@@ -1082,7 +1082,7 @@
       "chars": 1403
     },
     "entities/希尔造物.md": {
-      "sha256": "68cd3b06479d501f1f1096def793116147a79dbd48a121d587e51a9923be5cb8",
+      "sha256": "898823dd5f436c81feb4391f66261cee38f6e75683226ae8586e999e226604e1",
       "chars": 869
     },
     "entities/南方诸国.json": {
@@ -1090,7 +1090,7 @@
       "chars": 3207
     },
     "entities/南方诸国.md": {
-      "sha256": "25115dbe2998e0a7aeee90a2098d6db1bd6080ff687bef3796f708db11957c22",
+      "sha256": "9484a3356d5960730769451d866a656854f357b3eb1c78dbc46d884943c7075b",
       "chars": 1742
     },
     "entities/莱依奴族.json": {
@@ -1098,7 +1098,7 @@
       "chars": 1321
     },
     "entities/莱依奴族.md": {
-      "sha256": "4e77bf0570486d6d41f16aebb21a70824590b5230956e356c2db65a6b3fd5aed",
+      "sha256": "54143534bf4a85e7b1286ef612d515bb2fb7ed02938c4628655f693de87790b8",
       "chars": 700
     },
     "entities/莱茵芳汀.json": {
@@ -1106,7 +1106,7 @@
       "chars": 2363
     },
     "entities/莱茵芳汀.md": {
-      "sha256": "fc351a37db6f1212b7a71d8fc55253500f75525cb7b3698b0f2b947c65cf18bb",
+      "sha256": "2541015c26f40f1929a2c65f9a7e8873e28572a7c7887e51fbecca92841f0f36",
       "chars": 1058
     },
     "entities/神力深层机制.json": {
@@ -1114,7 +1114,7 @@
       "chars": 1980
     },
     "entities/神力深层机制.md": {
-      "sha256": "5c710f39c4fdc1cedb641bbce3a61da5c26498d774e2b97119d23eaeca2ca25f",
+      "sha256": "12953e3d4ca17c0d76b03857392cb4931f527ebcf7435ee5bb86e5771f82b545",
       "chars": 1079
     },
     "entities/灵魂体系.json": {
@@ -1122,7 +1122,7 @@
       "chars": 1354
     },
     "entities/灵魂体系.md": {
-      "sha256": "4abe6d8e510cacf46b1b4f0b4a9259b2b4281fa3c51a8856a9aec49a8e87e25d",
+      "sha256": "e3bb5a69fda092349e5e7d1f93d79387d958e200236ef518fa6cea3d987c76a6",
       "chars": 739
     },
     "entities/魔法表象.json": {
@@ -1130,7 +1130,7 @@
       "chars": 808
     },
     "entities/魔法表象.md": {
-      "sha256": "166cd97ae109f5de0fa4f999389664ce871ed4b0a273b7238d758e2aaea1c10e",
+      "sha256": "2f07e1df3121192bd3f91ca458123c6f8eea968d42b48c4f53d539ce1cc19f33",
       "chars": 473
     },
     "entities/世界设计层禁则.json": {
@@ -1138,7 +1138,7 @@
       "chars": 1015
     },
     "entities/世界设计层禁则.md": {
-      "sha256": "78d24abfe98196805cf19c087d97a0febe659e1846d7212bbb66a6570bb364a4",
+      "sha256": "89981af670b667db878068cd864943c1dfee3e9d911aadb3e8942315c8c760d1",
       "chars": 540
     },
     "entities/神力宇宙架构.json": {
@@ -1146,7 +1146,7 @@
       "chars": 1416
     },
     "entities/神力宇宙架构.md": {
-      "sha256": "00f13d99ad86d58359b2dc7c4af347dc47c8f3aa25afdacc12f42f8169972cb2",
+      "sha256": "525a2acdde9a0e4afe3ea3637f9e5ca226de11a9d1edb5442aa14fe0a4550ba2",
       "chars": 801
     },
     "entities/星神与世界的关系.json": {
@@ -1154,7 +1154,7 @@
       "chars": 891
     },
     "entities/星神与世界的关系.md": {
-      "sha256": "dee9543317922834f9a6faa1245b5b391ded2c3078943cff9a9a0de5849e0302",
+      "sha256": "7e8fa0ad3df0598c47441ab21bf1d214facc94514a4fee15134412d8e452bb87",
       "chars": 556
     },
     "entities/神系与权能.json": {
@@ -1162,7 +1162,7 @@
       "chars": 2409
     },
     "entities/神系与权能.md": {
-      "sha256": "8062dc41c765bb5aa5deca0f2ef83d1304e4c88cac2826cc980f4ee5f0d07661",
+      "sha256": "5ae769e47263e93a84e24416b086be2b55bf9239a3fef04bfa65f9619a8a4a2f",
       "chars": 1234
     },
     "entities/种族与生命.json": {
@@ -1170,7 +1170,7 @@
       "chars": 1640
     },
     "entities/种族与生命.md": {
-      "sha256": "79b319bd5bf4673184842dd6e7a518343a5a3605885f01c7f6ecbc0c7b527090",
+      "sha256": "62b4bae1a1d0b74edf866cd1a7773c5c7562b841412c4549e6db1c87504bb85e",
       "chars": 1026
     },
     "entities/科技体系.json": {
@@ -1178,7 +1178,7 @@
       "chars": 1068
     },
     "entities/科技体系.md": {
-      "sha256": "983bc6283344cb33c8f7c0114cdbb84d60482ed9585b2b60004c3d1aa15ff99e",
+      "sha256": "61904bafd5b8eefa079fbeb97ac99820192dd1a66a569991d474ee0745dd4ef3",
       "chars": 593
     },
     "entities/社会与行为规则.json": {
@@ -1186,7 +1186,7 @@
       "chars": 1371
     },
     "entities/社会与行为规则.md": {
-      "sha256": "4069e9be2935311f5afac502d66a51e943fe0c873099181acb51aa1c50475303",
+      "sha256": "dfcbd43dd99d187a9bdc23c11d8665effefbead4f18e2ccfb0d6d01daa2f1a55",
       "chars": 745
     },
     "entities/天使化.json": {
@@ -1194,7 +1194,7 @@
       "chars": 1670
     },
     "entities/天使化.md": {
-      "sha256": "353100ac0d1ff0741510f335e5b6726fa4e9ab9e93fe83a21c4fb5e911397fec",
+      "sha256": "d87ab72495d91e159cbd3125f419cde79e6e631d512eeae3463c9e7b3df31f71",
       "chars": 878
     },
     "entities/半触手化.json": {
@@ -1202,7 +1202,7 @@
       "chars": 1133
     },
     "entities/半触手化.md": {
-      "sha256": "a84219a65eb478d119ecac828411e7a4c3d2e8466e9d047900832060b099abf2",
+      "sha256": "97aee777b20dcb37937ed1071598fcee0b8b9d17afe3eef6127a042cbe7f8aba",
       "chars": 651
     },
     "entities/圣少女制度.json": {
@@ -1210,7 +1210,7 @@
       "chars": 1317
     },
     "entities/圣少女制度.md": {
-      "sha256": "4d49297d8ba1d5970e04ce01adad73f248d34bd707340fbc358cbb50f71f7864",
+      "sha256": "c5cee4326f02bbe0bd73232c08a80dacb96d4d5399f042eaef8a5930e19dacb3",
       "chars": 696
     },
     "entities/诸神互不攻击默契.json": {
@@ -1218,7 +1218,7 @@
       "chars": 1087
     },
     "entities/诸神互不攻击默契.md": {
-      "sha256": "16c79549342f169cee2904d29452564576f4a5e93252d7b140ea0fb63d913841",
+      "sha256": "784b6af7d55cfb8dd6257986494fa061316ce75607755961215897a2aa12a3bf",
       "chars": 612
     },
     "entities/后世.json": {
@@ -1226,7 +1226,7 @@
       "chars": 1081
     },
     "entities/后世.md": {
-      "sha256": "5957361cbd1728197d5c81947b06500727ba669e6fce4cf718f598edb56b272f",
+      "sha256": "73505775f549bf995166d65bff727d6666ecd3a8e14d94d7257242cbdc781e6f",
       "chars": 612
     },
     "entities/黑水晶产业.json": {
@@ -1234,7 +1234,7 @@
       "chars": 1075
     },
     "entities/黑水晶产业.md": {
-      "sha256": "ad75b96cbb7644a045361fe886e0235f0b661e9b11cfd66b459b9f9cd88c2d8c",
+      "sha256": "db40f758a49a90377aebc68f825dc22fd85c305eac6aabe589afeb7830d105be",
       "chars": 593
     },
     "entities/工房都市制度.json": {
@@ -1242,7 +1242,7 @@
       "chars": 1072
     },
     "entities/工房都市制度.md": {
-      "sha256": "7fec68d0014a984c6523aee46776008732fc3499ce2ad125219bd0a7dfe39f6a",
+      "sha256": "5aef81d4f7d7bd01ee710c3cce3dd277d05d0a58b36bc24b1f139c8b2c1f0c85",
       "chars": 590
     },
     "entities/长耳族协约者.json": {
@@ -1250,7 +1250,7 @@
       "chars": 1495
     },
     "entities/长耳族协约者.md": {
-      "sha256": "ff0f831c2209962ea6b4353ef936139f4cbb1670e6ce8eda9501b230e66ea621",
+      "sha256": "c2de0b2b0968e1c4461174628de323f4b0e960e566816e21cf2ce375124f0fde",
       "chars": 846
     },
     "entities/一日战争.json": {
@@ -1258,7 +1258,7 @@
       "chars": 3310
     },
     "entities/一日战争.md": {
-      "sha256": "a5f68b720a7fcd1a684d0c9f721eb10f0f296998eb9abae3b83fd4bedb9f9aed",
+      "sha256": "1bc9205326e88b331b174c2a69c569d6e53b938748ef3d523b400297eb947504",
       "chars": 1725
     },
     "entities/双星协定.json": {
@@ -1266,7 +1266,7 @@
       "chars": 2716
     },
     "entities/双星协定.md": {
-      "sha256": "de9559844f5249a3678a15a1c724d91218677eb2cdad94db07783ce78e1e25bf",
+      "sha256": "273a986d52854efba5f879deb591237b468a23e385c6102d1af525cf0f37c1a4",
       "chars": 1371
     },
     "entities/阿尔卡特洛帝国事件.json": {
@@ -1274,7 +1274,7 @@
       "chars": 2713
     },
     "entities/阿尔卡特洛帝国事件.md": {
-      "sha256": "7f001a1cf9c6f2ce809f32ff6569ff5137775f23ec73b9d82877ec82f91e4a3f",
+      "sha256": "f7b433d5555a6d3578abb3d6deee247e458d9118d1f4b02c6aa512f4cb396029",
       "chars": 1330
     },
     "entities/诺斯塔特移民.json": {
@@ -1282,23 +1282,23 @@
       "chars": 1891
     },
     "entities/诺斯塔特移民.md": {
-      "sha256": "f31b6da37f4a6fede618ef194816487c5ff456cf43789b9817092972a980e0a3",
+      "sha256": "69c597a40bf67580aad68dc5301ac2ddaa76da4b40cab28908ca39673e1bf1fa",
       "chars": 919
     },
     "entities/神力产量溢出事件.json": {
-      "sha256": "d67c1ba4309fb94fcf7dbc7ddb2aeecf6a0d9e24c0e081ea32dd84341cc2f7d5",
-      "chars": 1566
+      "sha256": "e4050e151b1271da3acb9df313ed77e8da7c22d6c5451819b7db16bb77800b27",
+      "chars": 1668
     },
     "entities/神力产量溢出事件.md": {
-      "sha256": "88de0c766ca447f29eb7a4a2ebece385dd3300120c750f4ce00034615aff5217",
-      "chars": 826
+      "sha256": "b9a811affd8c20cb9270e128e63775d8ec47104c6c08f9498b4b51d34d3e53fc",
+      "chars": 903
     },
     "entities/虚空宫殿.json": {
       "sha256": "19eb7871bff1a5acad84fcb16c7d624c455a059c294591deca7d9c134ebd3807",
       "chars": 843
     },
     "entities/虚空宫殿.md": {
-      "sha256": "3712e496eed09cb71a5b57926f92e6a2cde74422a3b6415d7ef9a3cfd606a5b2",
+      "sha256": "53b9cfd3c5178b60a01b63a7d1456bf6cc690a35bf601bc67dd565afe719d86b",
       "chars": 504
     },
     "entities/灰烬街.json": {
@@ -1306,7 +1306,7 @@
       "chars": 876
     },
     "entities/灰烬街.md": {
-      "sha256": "dcdaa810ae7ece40f9e4a6ced1f3a2462d9dc7d12b58d244e428bc126831a9cb",
+      "sha256": "2aaa3422c0e9418884e05d3519503fac50d1aaa36591ce31bfafc6394b6e1b0c",
       "chars": 543
     },
     "entities/守柱间.json": {
@@ -1314,7 +1314,7 @@
       "chars": 842
     },
     "entities/守柱间.md": {
-      "sha256": "1df20e7956790eb23ef052e97c5eaecec19427a2f55eeb18f034c9fefcb84ea1",
+      "sha256": "b2b2603cbaafb4b1c5f6b0abdd047d1a2f6ecbb5aeffc88706db74d8241c2d13",
       "chars": 509
     },
     "entities/废土东南方森林.json": {
@@ -1322,7 +1322,7 @@
       "chars": 1120
     },
     "entities/废土东南方森林.md": {
-      "sha256": "58e6ef86f3911bce56454db79d6e7c28b5575d168dce172706b4045b3097da26",
+      "sha256": "322655c83d4af6c4dda2858a497e0404372673f7674579ad30c89fc1fdc77315",
       "chars": 646
     },
     "entities/星神之塔.json": {
@@ -1330,7 +1330,7 @@
       "chars": 1170
     },
     "entities/星神之塔.md": {
-      "sha256": "383739538d46fa8a7ca7421589c53466e1c1e71e910fa31470f783074b8fb337",
+      "sha256": "b9f7e34b69479ec65bc059f39cb8def5571c40ee8acd82b2e690dbca7154a5e0",
       "chars": 699
     },
     "entities/海拉据点：天文台.json": {
@@ -1338,7 +1338,7 @@
       "chars": 1244
     },
     "entities/海拉据点：天文台.md": {
-      "sha256": "5e1c2f9981146396281bc3a6fdb0b488b3034dac61b0d0f6671bc5b2eb11c136",
+      "sha256": "fbf0d291a86f45d0fbf85ba258ae084b520fce04f0da8d738aa0da596e769334",
       "chars": 713
     },
     "entities/阿尔卡特洛帝国.json": {
@@ -1346,7 +1346,7 @@
       "chars": 1868
     },
     "entities/阿尔卡特洛帝国.md": {
-      "sha256": "5a1ad49743988051a419f0f1118b8524300dfb3b5bd94c226098b2059382023e",
+      "sha256": "7f07c61a2b2f1b69974153f40a14b4f402ecd8f2cfa490fb86ca9db554ea385e",
       "chars": 946
     },
     "entities/真祖.json": {
@@ -1354,7 +1354,7 @@
       "chars": 1206
     },
     "entities/真祖.md": {
-      "sha256": "904a28ef134522158c0605d754be3cca7a6a83fe8274ff7467f90f132df13387",
+      "sha256": "9dac8a70056ad8400700c93000b64c81ac03bfa25ff4a5c67ae058d74841be48",
       "chars": 731
     },
     "entities/闪光骑士团.json": {
@@ -1362,7 +1362,7 @@
       "chars": 842
     },
     "entities/闪光骑士团.md": {
-      "sha256": "57fb4dad04f9102cd5ae9695d86f0e2a9ff1a573bc76aa645bc1359ce07fb6bf",
+      "sha256": "2da0c2d2053a89ac4ba079ed47f88f0ced2def846f8e1cb14e4fdba07074a2c3",
       "chars": 513
     },
     "entities/雷恩势力.json": {
@@ -1370,7 +1370,7 @@
       "chars": 1296
     },
     "entities/雷恩势力.md": {
-      "sha256": "c9cc22477aea7ae9cea2dd8b0cbab927a16cd4831c4638239dc83e3b250171b6",
+      "sha256": "38dc1cdb034023c9670d190b792604e0a8cc793a73246faea7fbf1a44bf28006",
       "chars": 818
     },
     "entities/神力应用技术开发局.json": {
@@ -1378,7 +1378,7 @@
       "chars": 922
     },
     "entities/神力应用技术开发局.md": {
-      "sha256": "da421ac3305b29f6c2f43ffb95be37ebb60ba49e8625d9fe9df59be98051349a",
+      "sha256": "050a40ee01a978ab8bca6cd85f8342a487f1142ecae666dbdda370dd33982c42",
       "chars": 593
     },
     "entities/异界人.json": {
@@ -1386,7 +1386,7 @@
       "chars": 886
     },
     "entities/异界人.md": {
-      "sha256": "23c0e889aefc5b5abb7dd36c71771c0b977ff3e8603015e526edba7f591ea6ae",
+      "sha256": "df0aa585dae625eef5451f7f0e2085ae316adc5c119a52520b74326e1aa43c33",
       "chars": 553
     },
     "entities/墙边研究者.json": {
@@ -1394,7 +1394,7 @@
       "chars": 901
     },
     "entities/墙边研究者.md": {
-      "sha256": "69f3d51e52de2f5b6058f38b65b584abbbb1d7a8808fba6b94622c7304bf759a",
+      "sha256": "66b4876a4ae7c40635ecc0bd2511d2039828da6fd7f97450c25f878b8349c887",
       "chars": 568
     },
     "entities/阿亚.json": {
@@ -1402,7 +1402,7 @@
       "chars": 1498
     },
     "entities/阿亚.md": {
-      "sha256": "2e6422574ae200f7eb2ef0b50ba0216afca9ab1b1ca72930503f533363db7a1d",
+      "sha256": "af8b085b7e930508018826d7307652174fc00650b2cc5bcd743e26f9aeda74ce",
       "chars": 788
     },
     "entities/艾琪塔.json": {
@@ -1410,7 +1410,7 @@
       "chars": 1450
     },
     "entities/艾琪塔.md": {
-      "sha256": "791093a3bc8c342572a6d7681aef9f4474639406753651f2db14003c310a9da5",
+      "sha256": "85f0b7402b451b79381b263073a1f35082295614f4a6e6199c7c5f23a8fb0723",
       "chars": 774
     },
     "entities/洛芬.json": {
@@ -1418,7 +1418,7 @@
       "chars": 1165
     },
     "entities/洛芬.md": {
-      "sha256": "e056ae41457e6a7361941174b7aef2e86e5eba91f8cb253b503128e77526e078",
+      "sha256": "a7d3c3cf59a6d5f28c08a4d712f164a6f4cba93671476d9418c93688ce56488c",
       "chars": 673
     },
     "entities/里安.json": {
@@ -1426,7 +1426,7 @@
       "chars": 1131
     },
     "entities/里安.md": {
-      "sha256": "ee48b85fdf75664a1b7172463a6a65eb2e479004e81fcfc89f898eac9000516a",
+      "sha256": "e2adf1f944844628e34b3cdad9adff908c2ea7b2241be494a3883c06b4b75b2c",
       "chars": 653
     },
     "entities/赫克托.json": {
@@ -1434,7 +1434,7 @@
       "chars": 1262
     },
     "entities/赫克托.md": {
-      "sha256": "72d0e2a197ffa84e9cb19171a609672d048bc0501509bc574697a975e97f3fca",
+      "sha256": "1f6740e997d482d47773c41030afbc54b86f700bd40b195d167eee65ea515178",
       "chars": 742
     },
     "entities/红衣大主教.json": {
@@ -1442,7 +1442,7 @@
       "chars": 1497
     },
     "entities/红衣大主教.md": {
-      "sha256": "a6fda6155b9bbf0c39b23fec12b774d64543e238ac878c3e7ed24d34a7cb74c8",
+      "sha256": "df469bb82f356c957bcff5fda664b3d56f1b9abb656e5a4691aed41428a81e2a",
       "chars": 794
     },
     "entities/阿丽娅.json": {
@@ -1450,7 +1450,7 @@
       "chars": 1405
     },
     "entities/阿丽娅.md": {
-      "sha256": "67e0c23db240e45c56c0c6bbdbf6079e6d596e9c9733856ee34012e038b19160",
+      "sha256": "febd87b872af9ab636388672890369319a1d971d5f78d8c5b9baa1e3bf39315c",
       "chars": 746
     },
     "entities/威尔汀.json": {
@@ -1458,7 +1458,7 @@
       "chars": 1181
     },
     "entities/威尔汀.md": {
-      "sha256": "d49a760e075a108d6b5ed532736fe94b523d27dc3ccf93d77d2a6e04154fa307",
+      "sha256": "afc9b0a3351c65e771873e022643a672794b1f256c989f17b6c2413cbd4f2cc8",
       "chars": 674
     },
     "entities/窃星者事件.json": {
@@ -1466,7 +1466,7 @@
       "chars": 1930
     },
     "entities/窃星者事件.md": {
-      "sha256": "bf920977bb3e6e13e6d61afe4bf081d6f5c38b337634f68c509c578016d8a920",
+      "sha256": "259d1b7753743ce91a179e08f2e35e58e44a8ca952c6eba60da75e6e3b8c95e2",
       "chars": 995
     },
     "entities/罗塞别馆.json": {
@@ -1474,7 +1474,7 @@
       "chars": 2317
     },
     "entities/罗塞别馆.md": {
-      "sha256": "25ecaf5a800a9a62efee91abce65de089e0486f255c834a032943a0023077209",
+      "sha256": "8d9d76615efb5080b5ab8edd779492a8abaeca097a5850ba30d9780289328a9e",
       "chars": 1131
     },
     "entities/东部大陆.json": {
@@ -1482,7 +1482,7 @@
       "chars": 4308
     },
     "entities/东部大陆.md": {
-      "sha256": "f09daec36b8f451a32d4074fa094b5a35bb275281bbf08c970f4fd0f66b9e3aa",
+      "sha256": "8136bc6a7181f2ac9fe3653ba2c1f4ad86e0d01b3daee8414c0a74897f114731",
       "chars": 2209
     },
     "entities/东部群岛.json": {
@@ -1490,7 +1490,7 @@
       "chars": 768
     },
     "entities/东部群岛.md": {
-      "sha256": "4631c5696ce0770bf4921e1496e9294fa8fdeba41b5cfd41b7493dc5e288238c",
+      "sha256": "aa457d1a22e52bfcc40fca0e6daa46e65638eb4733cfa051d85f4087abfdac60",
       "chars": 428
     },
     "entities/主大陆.json": {
@@ -1498,7 +1498,7 @@
       "chars": 1090
     },
     "entities/主大陆.md": {
-      "sha256": "01fcdf50bf8311a018aab0936cfec40707df0e5f6b0bf678c83e651e9614b691",
+      "sha256": "ac5da27237ebf227cbf7b7dee397f610fd6d83532fe3083fcfc1b98fc46a92a4",
       "chars": 631
     },
     "entities/北方诸国.json": {
@@ -1506,7 +1506,7 @@
       "chars": 3187
     },
     "entities/北方诸国.md": {
-      "sha256": "df29e5fa25c2a7f057366af32aa8bfbbe3c61f4af57eea48bd21e1057f56a27c",
+      "sha256": "915bc91df7084921d3a45771d6dba434b92477feb50424b477d55877cc52795d",
       "chars": 1624
     },
     "entities/南部群岛.json": {
@@ -1514,7 +1514,7 @@
       "chars": 1321
     },
     "entities/南部群岛.md": {
-      "sha256": "a3172431f17cdd323d35cd6752f1545942f9b46f4563d9cac16761b1be96f409",
+      "sha256": "8365ccfae400aa72ff29e87fb0bb00c2ea7220bad7b36c6336f9174d5de137a6",
       "chars": 661
     },
     "entities/天堑山脉.json": {
@@ -1522,7 +1522,7 @@
       "chars": 1074
     },
     "entities/天堑山脉.md": {
-      "sha256": "bf6f74d9ae01167747e8a2562096edece2405474995d4621ac50c899e8de0643",
+      "sha256": "867f92c08c9ead616deb57872faee4b835733b6809b2d74b82f41c6b8e2d1c79",
       "chars": 585
     },
     "entities/瑞恩联合王国.json": {
@@ -1530,7 +1530,7 @@
       "chars": 3423
     },
     "entities/瑞恩联合王国.md": {
-      "sha256": "4c2960e37416355cee15d952fe8801fb03f441bd66e2eb4c27a82f5034dedab5",
+      "sha256": "e86153954fe73ce593a084de8815ef0540082955a26655f4acdeb1ee9f9891e4",
       "chars": 1665
     },
     "entities/西南群岛.json": {
@@ -1538,7 +1538,7 @@
       "chars": 1382
     },
     "entities/西南群岛.md": {
-      "sha256": "3fb6c4314473f4c08a2ec4a7095761773b9e79f2fdf4c8e10c36b2b5ec186683",
+      "sha256": "3f803ac6526cc5deff21d36844c9b88b7194cfc7334e583d0a7b20fcd8ff9062",
       "chars": 729
     },
     "entities/希尔时代.json": {
@@ -1546,7 +1546,7 @@
       "chars": 3568
     },
     "entities/希尔时代.md": {
-      "sha256": "853952ab57b0d145f333184ddc1a318c26022a5c6923eb029a942aaa8b4254ce",
+      "sha256": "77d6c409b3aec872cd10f436987ba4af45749195ad04f22ee78f02d597eee7c0",
       "chars": 1976
     },
     "entities/帝国时代.json": {
@@ -1554,7 +1554,7 @@
       "chars": 5583
     },
     "entities/帝国时代.md": {
-      "sha256": "6704714c41f81af84a7cc1f21b2ad4b1b0a37adc6cef9af889454769ae23ae1a",
+      "sha256": "0317c341408afd3290c725a1251cf9b9327b8f1b1f2317cb8d4791bccec1a149",
       "chars": 3144
     },
     "entities/赫尔.json": {
@@ -1562,7 +1562,7 @@
       "chars": 2754
     },
     "entities/赫尔.md": {
-      "sha256": "ae1b57679e20fce9126776d958f87c6144c0472c564425e5af147c6dc32fce78",
+      "sha256": "58a6c827fbabfbb854c94aa7220643153152c0b9d61dd9168ffe8b2e63ee7acf",
       "chars": 1489
     },
     "entities/纯白教廷.json": {
@@ -1570,7 +1570,7 @@
       "chars": 1766
     },
     "entities/纯白教廷.md": {
-      "sha256": "d29741510b49e631ae3d88a1db782517a416a9ece08cef6edaa3b93b52d8fea5",
+      "sha256": "09baa940fd2a4dc8719ff64776b102d17a0e6039cca5f13f9ac2b4ffd3b338dc",
       "chars": 994
     },
     "entities/艾拉时代.json": {
@@ -1578,7 +1578,7 @@
       "chars": 3288
     },
     "entities/艾拉时代.md": {
-      "sha256": "fa02d80735cf4d169efee44fd64acf39975b72f1d93f852e0cd2dc9bd673783e",
+      "sha256": "303f4360226782225fafe6f71763963eb3079ef0954ba47787e2c48c80a545aa",
       "chars": 1706
     },
     "entities/百年战争.json": {
@@ -1586,7 +1586,7 @@
       "chars": 4321
     },
     "entities/百年战争.md": {
-      "sha256": "8a8b0bd92ab56812be5d19dc5e53559d241188737d08bd90e1e55b375097da77",
+      "sha256": "70bd5a0ca38e318591012f72c9126359ec94048065e5bee1cd641b340b94dad0",
       "chars": 2560
     },
     "entities/大国时代.json": {
@@ -1594,7 +1594,7 @@
       "chars": 1543
     },
     "entities/大国时代.md": {
-      "sha256": "5d9548ce5634114586c1e6e2a35892d5b8ad0ce2cfd6850512bafc890c38cc8a",
+      "sha256": "adb76347b6c713e7591a1d0a00a2cfc243bcda4dc6a4dbec183e4f3b37552422",
       "chars": 932
     },
     "entities/工业革命.json": {
@@ -1602,7 +1602,7 @@
       "chars": 2152
     },
     "entities/工业革命.md": {
-      "sha256": "cc067dd501e61d4925a7fa00d190ce4b5631d74d1ec734b35f05f22bc4ef143d",
+      "sha256": "5350faae6eca733cba27b21e87dfbefa11205b2ece0e619c6b0b50e07ae085f0",
       "chars": 1250
     },
     "entities/艾拉遗迹事件.json": {
@@ -1610,7 +1610,7 @@
       "chars": 1160
     },
     "entities/艾拉遗迹事件.md": {
-      "sha256": "d290924961c92c1b8f8f9d06657820d1106743ad449c192bf2eeb00d626c33f4",
+      "sha256": "a80421dcb1d3384fc0f837d7540abbe32c6b6f309c87172a7245260710647ff4",
       "chars": 698
     },
     "entities/自由都市独立.json": {
@@ -1618,187 +1618,187 @@
       "chars": 1081
     },
     "entities/自由都市独立.md": {
-      "sha256": "4a038b7f7bfb7364475bb3cd7db18a172106f86352ba9893a63c447acb712673",
+      "sha256": "4c0ba3a99e9f4f91bd747c8682b6ca47a81c0c5d2d0496a777ab796ee8cb4c82",
       "chars": 619
     },
     "eras/history.md": {
-      "sha256": "031ced914150a8d514117a3c935713bbc02dc120584e5473a6120256f155ed37",
+      "sha256": "2ee82ac33e7647c5c276c06e293b8e22b4d0a92c7a3aafbfa534b27ed5f51b4e",
       "chars": 18449
     },
     "eras/mainline_1.md": {
-      "sha256": "fcfeb4387d9d7bd25a746788815e86dac8fcfae812ae939607bf2ef6d805bf65",
+      "sha256": "4e8ecfd182a1ce06072d48a806801fb8a61a1ed5d1ff5d9daa8a48518484d975",
       "chars": 29735
     },
     "eras/mainline_2.md": {
-      "sha256": "ace03f427e94f2f8e93b165b0a15cfae66cf5f81a093ae9c346519c3a41bfcd6",
+      "sha256": "23ada4d3cec77094075304c805fe94e3501eedfa3c6371467cd63000bc7dbd96",
       "chars": 3688
     },
     "eras/afterstory_1.md": {
-      "sha256": "d17b47500594c561130a42fe1fb449573239546e7f5be52f132ce67b1a7a4211",
-      "chars": 29717
+      "sha256": "55017d67a59ebb151f23a76b055ecd4b4ac3e79a40e0bd04c86edbdaee60deff",
+      "chars": 29718
     },
     "eras/afterstory_2.md": {
-      "sha256": "d044a21e7f20f5f03014de50f054d80b154204a1983a3887991d1da07f2c2384",
-      "chars": 4851
+      "sha256": "d189d5e79dacc3bc081a2be712c65d6b39d87bd80096ac8df134eb7d616abc23",
+      "chars": 4893
     },
     "relations.json": {
-      "sha256": "958692130e8eb92f8a17d2991ee456c44d241ee2d34ff2e3e2000286df0f730a",
-      "chars": 72612
+      "sha256": "c4bc10b83fd95b9e41a241e5c5f8e2a00c03827ead440e18034d24232be2638f",
+      "chars": 72625
     },
     "timeline.json": {
-      "sha256": "6cdc6133e6a234d1adef9c6452ff64af70597e18fadaeede384fe33a1c44060e",
+      "sha256": "ed8ef88b1d070475ffa2d24015ab8b2a245cc06939e0cf1b7039142d5cabe877",
       "chars": 20052
     },
     "review/L0_一页纸.md": {
-      "sha256": "ca0cc7aea1fe489bef07fe4460dbd0ff43fa06e627d75c01f2c06321560af87d",
+      "sha256": "5a435198fab3339aa5abea57af1da9cc658d16283b80e8a20cb64bea97d4b976",
       "chars": 1263
     },
     "review/L1_character_1.md": {
-      "sha256": "a047c1c707b7d4e9d9491ac8ee362cc1069ed3e75a3daa90fdc3449be434b7e6",
+      "sha256": "904046f0d03503dad41256ea9ad3df9752c80efd57d357eb1728a32e36707e4b",
       "chars": 28503
     },
     "review/L1_character_2.md": {
-      "sha256": "34072f1cc0e35177c9bcfa5a0cc37d5c34cb5ae5cae8b0c4aba0ab63c484a487",
+      "sha256": "9f623fb96dce5e51577d41f9dd7c4950ce4fd2281383a4f7963c3af0f52bb72b",
       "chars": 24086
     },
     "review/L1_character_3.md": {
-      "sha256": "4e9a489bf7136d0a10eafa55a855855fbb62ec740d24e7dd81a5763b424b4265",
+      "sha256": "a7e5e4b9a91b2a86d05623ec437928603c4997575f3bce2ef7835cd45a505c12",
       "chars": 28696
     },
     "review/L1_character_4.md": {
-      "sha256": "860c41adae3b869333aa67b09f7493497c57933945b571d69121f8595d59f521",
+      "sha256": "478dc7dc4dc9fd63a29099dccdf89fcf40c11b1ba50a98ecf5ecfeb212825fc5",
       "chars": 26754
     },
     "review/L1_character_5.md": {
-      "sha256": "a291ccd8819162daf43719a85c5f550781e560cc46dfc15455b28faeef8674ce",
+      "sha256": "041ab709ab68d08ac08f4ead605ec3f967b695cf6b396702826dfa81977a1031",
       "chars": 29683
     },
     "review/L1_character_6.md": {
-      "sha256": "b6f885d365d27bd28fd149dc80ebd0048aa12902127c8ca33e55c073d3396391",
+      "sha256": "b0203e311ef7b110f2bca93b22ac34ff3741d788dcb47503959f91f3336d959c",
       "chars": 29535
     },
     "review/L1_character_7.md": {
-      "sha256": "3e40cdec64a660426b1c66237435c796df656ae226537395d85b26791d60ab78",
+      "sha256": "3cc950be4f9afc8f794e0e711479f6676b792858b24463f9b13123b3b89f9645",
       "chars": 5351
     },
     "review/L1_location_1.md": {
-      "sha256": "dbc90a1c78a564866c49bff49aba5f285ee3a0d4fb0094a0768151c899f69c91",
+      "sha256": "5b5b980845430f64920a1f16c1df99ed9dc57abcb4bb1eda427acc64562e4705",
       "chars": 29081
     },
     "review/L1_location_2.md": {
-      "sha256": "efdc76b6cd0d7c5185e3f0fbdc4c08ac75c1709bf311e5994063afad8e39270a",
-      "chars": 26562
+      "sha256": "006a0ecb2da4c5ef2bfb17e800a1c465ee9b4a52ed4222a928e4686101506005",
+      "chars": 29705
     },
     "review/L1_location_3.md": {
-      "sha256": "14c1143094fb35ec2d6ed362099aca0eb18dde397d718c7432b881ff0166d103",
-      "chars": 7183
+      "sha256": "006e6082fa7b6431c26d553e487e7d52f95d8d480f4db0fba48d3614bcde3358",
+      "chars": 10999
     },
     "review/L1_world_rule.md": {
-      "sha256": "f46da09a1ed23eaf84652e266c5767834ec398ab48123eedd0c51c9463bf3cba",
-      "chars": 22018
+      "sha256": "272d322d231fa806176ce061bf7858c4cf9fe48c65a10b370c6a80eee6ed06f9",
+      "chars": 22056
     },
     "review/L1_group.md": {
-      "sha256": "62815fd4fbe96a49172713ae87972e2c268215f9cfea0bdc3d74cca4759f6d4c",
-      "chars": 22735
+      "sha256": "4edd2c3272dbf0defc71945da869d2ddb891a641938e7a15cd2f8b7ea69cd605",
+      "chars": 23056
     },
     "review/L1_event.md": {
-      "sha256": "de207fbe0c3def7d70a5d77884041b0ed72988b12054dc53df8509a65e5fd5ca",
-      "chars": 26715
+      "sha256": "99b6a290746b59c0e8b71a6cc5ee6206b2e6acad291e4d08bdf010fb0c8bbbd3",
+      "chars": 26817
     },
     "review/L1_item.md": {
-      "sha256": "826fb27486cd09868044ca8879fc229289ada904aaff9416bc0824e6d7bc0871",
+      "sha256": "e315cb02be2078f634eb985072ae22683119f5ee0bb522fc03f35b5ee1fc9594",
       "chars": 5645
     },
     "review/L1_race.md": {
-      "sha256": "a613a8000c11dcbe3e77acd72f27fe42f665c2753800d26f55d051939418050c",
+      "sha256": "aaa7c122596cccfc558917e784cc8960a024cab880cba8693f6427b2e0c0163e",
       "chars": 7244
     },
     "review/L1_era_history_1.md": {
-      "sha256": "79c4f087dca1626ba09320a6113342f90c63cb02c474d7cb28a75d20efe07a22",
+      "sha256": "fdc86df38b459b8484d6b47f48c59d0e55c367f9567b90e63f1a728958c25003",
       "chars": 29191
     },
     "review/L1_era_history_2.md": {
-      "sha256": "aefd54bff243cfedac2e957859ac13da3aaee4015831170e606f3208dcfb9966",
+      "sha256": "b7567457c386a8e1ff234f55b6b3710915892e415522edf72341cbbf976ea1cb",
       "chars": 11010
     },
     "review/L1_era_mainline_1.md": {
-      "sha256": "fa9fbd1efd6a936d5997b5b959f862e03a19f27241fc14b4dbd8b1d3192f66df",
+      "sha256": "14e9e2bbcd856bd36774039d26439921d3744f06ccdf70fa8a295d661af7d5d0",
       "chars": 29546
     },
     "review/L1_era_mainline_2.md": {
-      "sha256": "fe4aac0bc753df1ef3dc64016bd91d35354b7904e08be284bceb3cd3466261e1",
+      "sha256": "24c5b49341e3c2ce43e9cc7e9857fe9a632d40de65571cb2c3de249e4113c770",
       "chars": 29893
     },
     "review/L1_era_mainline_3.md": {
-      "sha256": "0c71dbbd62d17368309ed181c2cae7dcbfe45f6cfaef9f7971ed99521b22f855",
-      "chars": 29560
+      "sha256": "a83602d5a211dc8b119e8aa7b3197b642fa41195bf7e4380e12378163a011d84",
+      "chars": 29584
     },
     "review/L1_era_mainline_4.md": {
-      "sha256": "354010c8543b651530739937a8f823a43d0c081d96ba9618122735c2661e2278",
+      "sha256": "6c57a9d8f86c67bc2974b51cd22720065b511e0b5349d0292daf5f8b89b11d21",
       "chars": 14104
     },
     "review/L1_era_afterstory_1.md": {
-      "sha256": "8906beed811f91e5ba1239dd78b3714dcafd609fe1cc23bb6d5f2f05c6038e42",
+      "sha256": "ab6e2f938ec2dc96eae69d6fface6bcec0f480282b6912c45f7b2bd6677154f4",
       "chars": 29653
     },
     "review/L1_era_afterstory_2.md": {
-      "sha256": "7a7a9b281ded5bb959a9f9a9905f4602703a6b92e65e88cf65ebb38e97d02a27",
-      "chars": 29355
+      "sha256": "52d9c5c2b13aa5d29ca9b8f45302c065394ef50ad2e33bb62e6fee7be8706236",
+      "chars": 29435
     },
     "review/L1_era_afterstory_3.md": {
-      "sha256": "baa5ba76215261dff68d3e679d382d364845a1e0a5be3947e1191a32e2f0fcc8",
-      "chars": 29793
+      "sha256": "be330522bf422970575fbbd2efb66ab1a95a8ead3425605a9b9d34e4b96f5385",
+      "chars": 23315
     },
     "review/L1_era_afterstory_4.md": {
-      "sha256": "632e49b7791899b3370dc842baf91f7cf7ec5835782b75175d8dbf553e9a99b6",
-      "chars": 4636
+      "sha256": "1dabe6d8a143fa0bc2eda28a5dfd21273068938a63bb57dafcc1c75dd420720b",
+      "chars": 18710
     },
     "review/L1_facts_1.md": {
-      "sha256": "18ee1c2fa66230a7bb14bde80b3649eed0f3bb3d83aefa7a643f0dc9ec486fba",
+      "sha256": "b25dcba42d87d7a6b81c2b97a23a16d89c7a1d0fc07e5b4587750d87aa0e439f",
       "chars": 27235
     },
     "review/L1_facts_2.md": {
-      "sha256": "880e01613969d159aaddf76a6ae7ee5be6eb27d228f57b00af8b200a69a50d75",
+      "sha256": "9d4bf6e87e3a3d58919eef32664dc7019b303838b65be7dededee3e147b591bd",
       "chars": 28131
     },
     "review/L1_facts_3.md": {
-      "sha256": "0c735ad61118aca6c543d7fa70d9734df52ca983434450c36bca29b6d9bb1292",
+      "sha256": "8e5819c3c4819c5e6b4e59591e53192ec3465871a044c8319e85c89199a83ab6",
       "chars": 29794
     },
     "review/L1_facts_4.md": {
-      "sha256": "c2692100e72fbdd3813995d2badb357cace8cdc0a8604a98e64dd9dde546e4c0",
-      "chars": 29922
+      "sha256": "e63bb24f756993b313b4a905c9267036b29615b79b07076e263cff0a5f0a575c",
+      "chars": 29986
     },
     "review/L1_facts_5.md": {
-      "sha256": "7db50ee092651abaf417448edf6cb063c890cda648f6d355cac98a6417386b68",
-      "chars": 29729
+      "sha256": "62adbbb6fbec0f848ab61788d40efce74b5406618783cfbfe569d84759ade82c",
+      "chars": 29979
     },
     "review/L1_facts_6.md": {
-      "sha256": "473d12d9e12205bcaa1741610bc2f71fa0bc21fafefcda3003027f193b925e35",
-      "chars": 29804
+      "sha256": "6a574b5e2e8839cc2fdff7d202f27dd7ac1f33d4f8b607c06aa58516e4cdbd7f",
+      "chars": 29982
     },
     "review/L1_facts_7.md": {
-      "sha256": "04be1b5f9167a391423023fa19f6643dadca1f63c9015bf3df2f1167490227de",
-      "chars": 2275
+      "sha256": "348c448c78eb2701588390c60cea829bceeb252bec7b1a013170599ead86e71e",
+      "chars": 9249
     },
     "review/L1_relations.md": {
-      "sha256": "3f6c3178d97cfd1c7d1c4111d4413752b6bd0131454380aec4ba921b76ffca80",
-      "chars": 32712
+      "sha256": "ce199b923499e0dd5e4633250c40e9ad871eb12e20444e74e97db1643f003d73",
+      "chars": 32725
     },
     "review/L1_timeline.md": {
-      "sha256": "20e692e408d993928a8eec41303c382c75f29fe16e750f7302cfb2dd71f824ae",
+      "sha256": "d8a247f167bc41970fe006b02e01aad7c23b12a83ccfabf88af4e3a09aa41879",
       "chars": 7682
     },
     "review/L2_全量基线.md": {
-      "sha256": "351ec18684d4e45af285b22bcd223bdc84eea50e6a3636f71cd53804fb5d6c7a",
-      "chars": 360795
+      "sha256": "2b9d53277e41022d232ee018c563a4b1384bd8858a0ff3bdeec0621b7d52fcb2",
+      "chars": 368228
     },
     "review/README.md": {
-      "sha256": "9e29f6265038ad8227267990d356f71a3362b08d72a61f30a2d80a9a03e5daaf",
-      "chars": 2897
+      "sha256": "c62e2d38862d0248fd3632d932b4085310a663383f016a3f459301874ca8c3ba",
+      "chars": 2899
     },
     "llms.txt": {
-      "sha256": "5267d26d3e03f85c310606f422eacc0f21e5687244f1063419af1a9c2be4288c",
+      "sha256": "35bffb6e659682eb21d300bbe2060c5fce51092f414057e2807b5d5ac843ec3f",
       "chars": 924
     }
   },

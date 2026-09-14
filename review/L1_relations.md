@@ -1,6 +1,6 @@
 # L1 分册：关系表
 
-- 库版本：v2.1.1 ｜ 源库 sha256：5e2a1399e4ee…
+- 库版本：v2.1.1 ｜ 源库 sha256：4fa8ef14e4dd…
 - 本册覆盖：全部 240 条关系。
 - 机器语义 `relation_kind` 可能在同一条关系上出现组合，请按字段值判读。
 
@@ -34,7 +34,7 @@
 - `rel_0028` 辛德蕾（辛德蕾） → 长耳族（长耳族）（关系：成员；时代：后日谈；机器语义：membership.member_of；状态：approved；出处：图鉴条目78（辛德蕾））
 - `rel_0029` 马克（马克） → 科研组（科研组）（关系：成员；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：membership.member_of；状态：approved；出处：图鉴条目75（马克））
 - `rel_0030` 莉卡（莉卡） → 科研组（科研组）（关系：成员；时代：主线、后日谈；生效自：tp_mainline_empire_after；机器语义：membership.member_of；状态：approved；出处：图鉴条目74（莉卡））
-- `rel_0031` 庭院（庭院） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：位于庄园深处；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：geography.located_in；状态：approved；出处：图鉴条目16（主舞台构成篇））
+- `rel_0031` 庭院（庭院） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：位于工房都市核心区中心；时代：后日谈；生效自：tp_afterstory_workshop_city_initial；机器语义：geography.located_in；状态：approved；出处：作者确认稿《庭院.md》2026-09-14）
 - `rel_0032` 庭院别馆（庭院别馆） → 庭院（庭院）（关系：庭院边缘；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目21（主舞台构成篇））
 - `rel_0033` 核心区（核心区） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：城市中心；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目12（主舞台构成篇））
 - `rel_0034` 旧城区（旧城区） → 艾尔伯德工房都市（艾尔伯德工房都市）（关系：高墙环绕区；时代：后日谈；机器语义：geography.located_in；状态：approved；出处：图鉴条目14（主舞台构成篇））
