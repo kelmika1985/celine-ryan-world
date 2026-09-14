@@ -1,6 +1,6 @@
 # 审查分册清单
 
-- 库版本：v2.1.1 ｜ 源库 sha256：`9050ae7896231e8dfd04e9ae49fd53c6820db6b8ae20214c2450584fe11c8792`
+- 库版本：v2.1.1 ｜ 源库 sha256：`5e2a1399e4eec1f70176099489ac77dd5ad506f8705ef9fb900aebb8961840fb`
 - 每册的 sha256 与字符数见 `mirror/meta.json` 的 `files` 表（册内自指会形成循环，因此指纹统一记在 meta.json）。
 - 分册是同一份库的不同排版，不是新事实源，可由 `tools/build_mirror.py` 整体重建。
 
@@ -13,7 +13,7 @@
 | `review/L1_character_5.md` | 人物（第 5 册，共 7 册） | 实体 75 个 | 29683 字符 |
 | `review/L1_character_6.md` | 人物（第 6 册，共 7 册） | 实体 75 个 | 29535 字符 |
 | `review/L1_character_7.md` | 人物（第 7 册，共 7 册） | 实体 75 个 | 5351 字符 |
-| `review/L1_location_1.md` | 地点（第 1 册，共 3 册） | 实体 43 个 | 29011 字符 |
+| `review/L1_location_1.md` | 地点（第 1 册，共 3 册） | 实体 43 个 | 29081 字符 |
 | `review/L1_location_2.md` | 地点（第 2 册，共 3 册） | 实体 43 个 | 26562 字符 |
 | `review/L1_location_3.md` | 地点（第 3 册，共 3 册） | 实体 43 个 | 7183 字符 |
 | `review/L1_world_rule.md` | 世界规则 | 实体 26 个 | 22018 字符 |
@@ -29,18 +29,18 @@
 | `review/L1_era_mainline_4.md` | 主线时代（第 4 册，共 4 册） | 时代分页 87 个 | 14104 字符 |
 | `review/L1_era_afterstory_1.md` | 后日谈时代（第 1 册，共 4 册） | 时代分页 110 个 | 29653 字符 |
 | `review/L1_era_afterstory_2.md` | 后日谈时代（第 2 册，共 4 册） | 时代分页 110 个 | 29355 字符 |
-| `review/L1_era_afterstory_3.md` | 后日谈时代（第 3 册，共 4 册） | 时代分页 110 个 | 29723 字符 |
+| `review/L1_era_afterstory_3.md` | 后日谈时代（第 3 册，共 4 册） | 时代分页 110 个 | 29793 字符 |
 | `review/L1_era_afterstory_4.md` | 后日谈时代（第 4 册，共 4 册） | 时代分页 110 个 | 4636 字符 |
 | `review/L1_facts_1.md` | facts 断言全集 第1册 | 1891 条 facts | 27235 字符 |
 | `review/L1_facts_2.md` | facts 断言全集 第2册 | 1891 条 facts | 28131 字符 |
 | `review/L1_facts_3.md` | facts 断言全集 第3册 | 1891 条 facts | 29794 字符 |
 | `review/L1_facts_4.md` | facts 断言全集 第4册 | 1891 条 facts | 29922 字符 |
-| `review/L1_facts_5.md` | facts 断言全集 第5册 | 1891 条 facts | 29659 字符 |
+| `review/L1_facts_5.md` | facts 断言全集 第5册 | 1891 条 facts | 29729 字符 |
 | `review/L1_facts_6.md` | facts 断言全集 第6册 | 1891 条 facts | 29804 字符 |
 | `review/L1_facts_7.md` | facts 断言全集 第7册 | 1891 条 facts | 2275 字符 |
 | `review/L1_relations.md` | 关系表 | 240 条关系 | 32712 字符 |
 | `review/L1_timeline.md` | 时间线 | 86 个时间点 | 7682 字符 |
-| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 360725 字符 |
+| `review/L2_全量基线.md` | 全量基线（L0+实体+关系+时间线） | 全库 | 360795 字符 |
 
 ## 回传建议格式
 
