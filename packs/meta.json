@@ -2,7 +2,7 @@
   "db_version": "v2.1.1",
   "source_sha256": "63f8d14a06b5c8f2e30de470cb3472f101f6efcf035510a17c0e9766c7929e59",
   "release_manifest_sha256": "63f8d14a06b5c8f2e30de470cb3472f101f6efcf035510a17c0e9766c7929e59",
-  "generated_at": "2026-09-11T20:58:42",
+  "generated_at": "2026-09-14T17:19:46",
   "pack_count": 604,
   "skipped_count": 248,
   "eligible_entities": 199,
@@ -2425,7 +2425,7 @@
       "chars": 506
     },
     "index.json": {
-      "sha256": "b94978289fd9415f9cd67b0957c8256d1295ac695656ec7ed4a8b25eccf13874",
+      "sha256": "22eda8670bafb919b32b0f1f592f8612084ea6d9b95daae107323bd55f543abb",
       "chars": 283402
     },
     "index.md": {
